@@ -1,6 +1,6 @@
 # Hi, I'm Khalid! 👋
 
-I am an **MSc student in Computer Science**. I love building full-stack applications and exploring new technologies in my free time.
+I am an **MSc student in Computer Science** at **Kristiania University College** in Oslo. I love building full-stack projects and learning new technologies in my free time.
 
 ---
 
@@ -11,9 +11,9 @@ I am an **MSc student in Computer Science**. I love building full-stack applicat
 
 ### 🛠️ Tech Stack
 * **Frontend:** React, Next.js, React Native, Tailwind CSS
-* **Backend:** Node.js, Express.js, WebSockets
+* **Backend:** Node.js, Express.js, WebSockets, API Integration
 * **Database & Auth:** MongoDB, Convex, Clerk
-* **Deployment:** Vercel, API Integration
+* **Deployment:** Vercel
 
 ---
 
