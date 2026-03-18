@@ -1,12 +1,12 @@
 # Hi, I'm Khalid! 👋
 
-I am an **MSc student in Computer Science** at **Kristiania University College** in Oslo. I love building full-stack projects and learning new technologies in my free time.
+I am an **MSc student in Computer Science** at **Kristiania University, Oslo**. I love building full-stack projects and learning new technologies in my free time.
 
 ---
 
 ### 🚀 What I do
-* **Full-Stack Development:** I build complete web and mobile apps from scratch.
-* **Modern Tools:** I use AI, real-time databases, and APIs to solve problems.
+* **Full-Stack Development:** I build complete web and mobile applications from scratch.
+* **Modern Tech:** I use AI, real-time data, and APIs to solve real-world problems.
 * **Latest Project:** I recently built an **AI SEO SaaS** that analyzes websites in seconds.
 
 ### 🛠️ Tech Stack
