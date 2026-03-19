@@ -17,8 +17,8 @@ I am an **MSc student in Computer Science** at **Kristiania University, Oslo**. 
 
 ---
 
-### 📞 Contact Me
-I am currently looking for **full-time** job opportunities. I am always open for a **coffee chat** (kaffeprat) if you want to talk about tech or projects!
+### ☕ Let's Connect!
+If you are looking for someone who is **curious**, **eager to learn**, and loves to **share experiences**, feel free to reach out! I am always down for a **coffee chat**.
 
 * 📱 **Phone:** +47 948 54 081
 * 📧 **Email:** khalidkhalif1507@gmail.com
