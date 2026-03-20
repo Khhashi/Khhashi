@@ -1,6 +1,8 @@
-# Hi, I'm Khalid! 👋
+# Hi, I'm Khalid! 👋 
 
-I am an **MSc student in Computer Science** at **Kristiania University, Oslo**. I love building full-stack projects and learning new technologies in my free time.
+**Software Engineer | Oslo** 🇳🇴
+
+I build cool stuff. Currently obsessed with **SaaS, AI agents, and Full-stack automation.** ---
 
 ---
 
