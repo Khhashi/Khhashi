@@ -2,7 +2,7 @@
 
 **Software Engineer | Oslo** 🇳🇴
 
-I build cool stuff. Currently obsessed with **SaaS, AI agents, and Full-stack automation.** ---
+I build cool stuff. Currently obsessed with **SaaS, AI agents, and Full-stack automation.** 
 
 ---
 
