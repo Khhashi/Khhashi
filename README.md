@@ -9,7 +9,7 @@ I build cool stuff. Currently with **SaaS, AI agents, and Full-stack automation.
 ### 🚀 What I do
 * **Full-Stack Development:** I build complete web and mobile applications from scratch.
 * **Modern Tech:** I use AI, real-time data, and APIs to solve real-world problems.
-* **Latest Project:** I recently built an **AI SEO SaaS** that analyzes websites in seconds.
+* **Latest Project:** I recently built an **AI SEO SaaS** that analyzes websites.
 
 ### 🛠️ Tech Stack
 * **Frontend:** React, Next.js, React Native, Tailwind CSS
