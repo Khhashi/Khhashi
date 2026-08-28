@@ -2,8 +2,6 @@
 
 **Software Engineer | Oslo** 🇳🇴
 
-I build cool stuff. Currently with **SaaS, AI agents, and Full-stack automation.** 
-
 ---
 
 ### 🚀 What I do
