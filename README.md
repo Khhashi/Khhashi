@@ -4,19 +4,6 @@
 
 ---
 
-### 🚀 What I do
-* **Full-Stack Development:** I build complete web and mobile applications from scratch.
-* **Modern Tech:** I use AI, real-time data, and APIs to solve real-world problems.
-* **Latest Project:** I recently built an **AI SEO SaaS** that analyzes websites.
-
-### 🛠️ Tech Stack
-* **Frontend:** React, Next.js, React Native, Tailwind CSS
-* **Backend:** Node.js, Express.js, WebSockets, API Integration
-* **Database & Auth:** MongoDB, Convex, Clerk
-* **Deployment:** Vercel
-
----
-
 ### ☕ Let's Connect!
 If you are looking for someone who is **curious**, **eager to learn**, and loves to **share experiences**, feel free to reach out! I am always down for a **coffee chat**.
 
