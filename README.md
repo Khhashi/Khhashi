@@ -1,6 +1,6 @@
 # Hi, I'm Khalid! 👋 
 
-**Software Engineer | Oslo** 🇳🇴
+**Software Developer | Oslo** 🇳🇴
 
 ---
 
