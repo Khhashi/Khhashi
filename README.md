@@ -11,9 +11,9 @@ I’m a curious and passionate software developer who loves building impactful a
 * **Frontend:** HTML, CSS, Tailwind CSS, TypeScript, React, Next.js
 * **Backend:** Node.js, Express.js, Convex
 * **Databases:** MongoDB, PostgreSQL, MySQL
-* **APIs & AI:** REST API, OpenAI API, Web Scraping (Bright Data)
-* **Auth & CMS:** Clerk, Sanity
-* **Analytics & Developer Tools:** PostHog, CodeRabbit, Git, GitHub
+* **APIs & AI:** REST API, OpenAI API
+* **Auth & CMS:** Clerk 
+* **Analytics & Developer Tools:** Git, GitHub
 * **Design & IDEs:** Figma, VS Code, IntelliJ, Azure DevOps
 * **Methodologies:** Scrum, Kanban
 
