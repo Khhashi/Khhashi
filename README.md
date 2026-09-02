@@ -9,7 +9,7 @@ I’m a curious and passionate software developer who loves building impactful a
 ### 🛠️ Tech Stack & Tools
 
 * **Frontend:** HTML, CSS, Tailwind CSS, TypeScript, React, Next.js
-* **Backend:** Node.js, Express.js, Convex
+* **Backend:** Node.js, Express.js
 * **Databases:** MongoDB, PostgreSQL, MySQL
 * **APIs & AI:** REST API, OpenAI API
 * **Auth & CMS:** Clerk 
