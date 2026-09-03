@@ -1,7 +1,7 @@
 ### Hei, jeg er Khalid! 👋
 **Utvikler | MSc Computer Science | Oslo, Norge 🇳🇴**
 
-Jeg er en nysgjerrig og engasjert utvikler som elsker å bygge nyttige applikasjoner, lære nye teknologier og dele erfaringer underveis. Alltid åpen for å ta en prat eller en kaffe! ☕
+Jeg er mer opptatt av hvordan jeg tenker, lærer og løser problemer enn av hvor mange teknologier jeg allerede kan. Alltid åpen for å ta en prat eller en kaffe! 
 
 ---
 
