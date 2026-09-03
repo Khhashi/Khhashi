@@ -10,7 +10,7 @@ I’m a curious and passionate software developer who loves building impactful a
 
 * **Frontend:** HTML, CSS, Tailwind CSS, TypeScript, React, Next.js
 * **Backend:** Node.js, Express.js
-* **Databases:** MongoDB, PostgreSQL, MySQL
+* **Databases:** MongoDB, PostgreSQL
 * **APIs & AI:** REST API, OpenAI API
 * **Auth & CMS:** Clerk 
 * **Analytics & Developer Tools:** Git, GitHub
