@@ -1,31 +1,27 @@
-# Hi, I'm Khalid! 👋
+### Hei, jeg er Khalid! 👋
+**Programvareutvikler | MSc Computer Science | Oslo, Norge 🇳🇴**
 
-**Software Developer** | MSc Computer Science | Oslo, Norway 🇳🇴
-
-I’m a curious and passionate software developer who loves building impactful applications, learning new technologies, and sharing experiences. Always open to connecting or grabbing a coffee! ☕
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Frontend:** HTML, CSS, Tailwind CSS, TypeScript, React, Next.js
-* **Backend:** Node.js, Express.js
-* **Databases:** MongoDB, PostgreSQL
-* **APIs & AI:** REST API, OpenAI API
-* **Auth & CMS:** Clerk 
-* **Analytics & Developer Tools:** Git, GitHub
-* **Design & IDEs:** Figma, VS Code, IntelliJ, Azure DevOps
-* **Methodologies:** Scrum, Kanban
+Jeg er en nysgjerrig og engasjert utvikler som elsker å bygge nyttige applikasjoner, lære nye teknologier og dele erfaringer underveis. Alltid åpen for å ta en prat eller en kaffe! ☕
 
 ---
 
-### 📫 Let's Connect!
+### 🛠️ Teknologistack & verktøy
 
-If you'd like to collaborate, discuss tech, or just say hi, feel free to reach out:
-
-* 📧 **Email:** [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com)
-* 📱 **Phone:** +47 948 54 081
-* 📍 **Location:** Oslo, Norway
+- **Frontend:** HTML, CSS, Tailwind CSS, TypeScript, React, Next.js
+- **Backend:** Node.js, Express.js
+- **Databaser:** MongoDB, PostgreSQL
+- **APIer & AI:** REST API, OpenAI API
+- **Auth & CMS:** Clerk
+- **Analyse & utviklerverktøy:** Git, GitHub
+- **Design & IDE-er:** Figma, VS Code, IntelliJ, Azure DevOps
+- **Metodikk:** Scrum, Kanban
 
 ---
-*Thanks for visiting my profile!*
+
+### 📫 La oss ta kontakt!
+
+Har du lyst til å samarbeide, snakke om teknologi, eller bare si hei? Ta gjerne kontakt:
+
+- 📧 E-post: [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com)
+- 📱 Telefon: +47 948 54 081
+- 📍 Sted: Oslo, Norge
