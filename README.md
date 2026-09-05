@@ -11,7 +11,7 @@ Jeg er mer opptatt av hvordan jeg tenker, lærer og løser problemer enn av hvor
 - **Backend:** Node.js, Express.js
 - **Databaser:** MongoDB, PostgreSQL
 - **APIer & AI:** REST API, OpenAI API
-- **Auth & CMS:** Clerk
+- **Auth & CMS:** Clerk, Stripe
 - **Analyse & utviklerverktøy:** Git, GitHub
 - **Design & IDE-er:** Figma, VS Code, IntelliJ, Azure DevOps
 - **Metodikk:** Scrum, Kanban
