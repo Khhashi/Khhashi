@@ -20,4 +20,4 @@ Jeg bygger brukervennlige fullstack-løsninger fra frontend til deploy, med foku
 
 ### 📫 Kontakt
 
-[E-post](mailto:khalidkhalif1507@gmail.com) · +47 948 54 081 · Oslo, Norge
+[E-post](mailto:khalidkhalif1507@gmail.com) · [Telefon](tel:+4794854081) · Oslo, Norge
