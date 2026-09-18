@@ -1,8 +1,6 @@
 ### Hei, jeg er Khalid! 👋
 **Software Developer | MSc Computer Science | Oslo, Norge 🇳🇴**
 
-Jeg bygger brukervennlige fullstack-løsninger fra frontend til deploy, med fokus på godt design og tydelige arbeidsflyter.
-
 ### 🚀 Prosjekter
 
 - **[Møteplass](https://eventmeeting-f3eu.onrender.com)** – Plattform for arrangementer med søk, kart og sikker innlogging.
