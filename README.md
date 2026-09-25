@@ -5,6 +5,7 @@
 
 - **[Møteplass](https://eventmeeting-f3eu.onrender.com)** – Plattform for arrangementer med søk, kart og sikker innlogging.
 - **[Nordly](https://ordermanager-8ym2.onrender.com)** – Norsk nettbutikk med handlekurv, Stripe Checkout, frakt og ordrebekreftelser.
+- **[SKDE – Sykehus- og kvalitetsdata](https://helse-kvalitet-dashboard.vercel.app)** – Dashboard som viser kvalitetsdata for helseforetak, med søk, filtrering og sammenligning av kvalitetsindikatorer.
 
 ### 🛠️ Teknologi
 
