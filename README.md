@@ -1,11 +1,23 @@
 ### Hei, jeg er Khalid! 👋
 **Software Developer | MSc Computer Science | Oslo, Norge 🇳🇴**
 
+Fullstack-utvikler som liker å bygge ferdige produkter – fra database og API til brukergrensesnitt. Jeg jobber mest med React, TypeScript, Node.js og .NET.
+
 ### 🚀 Prosjekter
 
-- **[Møteplass](https://eventmeeting-f3eu.onrender.com)** – Plattform for arrangementer med søk, kart og sikker innlogging.
-- **[Nordly](https://ordermanager-8ym2.onrender.com)** – Nettbutikk med handlekurv, Stripe Checkout, frakt og ordrebekreftelser.
-- **[SKDE – Sykehus- og kvalitetsdata](https://helse-kvalitet-dashboard.vercel.app)** – Dashboard som viser kvalitetsdata for helseforetak, med søk, filtrering og sammenligning av kvalitetsindikatorer.
+**[Møteplass](https://eventmeeting-f3eu.onrender.com)** · [Kode](https://github.com/BRUKER/REPO)
+Plattform for arrangementer med søk, kart og sikker innlogging.
+`React` `Node.js` `Express` `MongoDB`
+
+**[Nordly](https://ordermanager-8ym2.onrender.com)** · [Kode](https://github.com/BRUKER/REPO)
+Nettbutikk med handlekurv, Stripe Checkout (testmodus), frakt og ordrebekreftelser.
+`React` `Node.js` `Express` `PostgreSQL` `Stripe`
+
+**[Sykehus- og kvalitetsdata](https://helse-kvalitet-dashboard.vercel.app)** · [Kode](https://github.com/BRUKER/REPO)
+Dashboard med søk, filtrering og sammenligning av kvalitetsindikatorer for helseforetak, basert på åpne data fra SKDE.
+`Next.js` `TypeScript` `Tailwind`
+
+> ⏳ Appene på Render kan bruke opptil ett minutt på å starte første gang de åpnes.
 
 ### 🛠️ Teknologi
 
@@ -34,5 +46,5 @@
 ### 📫 Kontakt
 
 - 📧 [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com)
-- 📱 [+47 948 54 081](tel:+4794854081)
+- 💼 [LinkedIn](https://www.linkedin.com/in/BRUKERNAVN)
 - 📍 Oslo, Norge
