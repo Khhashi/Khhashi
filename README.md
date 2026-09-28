@@ -31,8 +31,6 @@
 ![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-22A34A?style=for-the-badge&logo=dotnet&logoColor=white)
 
-Møteplass bruker Vitest, React Testing Library og Supertest. Nordly bruker NUnit.
-
 ### 📫 Kontakt
 
 - 📧 [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com)
