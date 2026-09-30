@@ -1,6 +1,6 @@
 ### Hei, jeg er Khalid! 👋
 
-**Fullstack-utvikler · Master i informasjonsteknologi · Oslo 🇳🇴**
+**Fullstack-utvikler · Master i informasjonsteknologi · Oslo **
 
 
 ### 🚀 Prosjekter
