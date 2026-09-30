@@ -15,7 +15,7 @@ Jeg bygger ferdige produkter, fra database og API til brukergrensesnitt og deplo
       <b>Nordly – nettbutikk</b><br>
       Nettbutikk med Stripe Checkout og signert webhook, så ordren først bekreftes etter verifisert betaling. Lagdelt arkitektur og 22 tester i CI.<br><br>
       <code>C#</code> <code>.NET 8</code> <code>PostgreSQL</code> <code>Stripe</code> <code>Docker</code><br><br>
-      <a href="https://ordermanager-8ym2.onrender.com">Live demo ↗</a> · <a href="https://github.com/Khhashi/Nordly">Kode</a>
+      <a href="https://ordermanager-8ym2.onrender.com">Live demo ↗</a> · <a href="https://github.com/Khhashi/Nordly">Kode</a><br><sub>⏳ Kjører på Renders gratisnivå, som går i dvale når appen ikke er i bruk. Første besøk kan derfor ta opptil ett minutt.</sub>
     </td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@ Jeg bygger ferdige produkter, fra database og API til brukergrensesnitt og deplo
       <b>Møteplass – arrangementsplattform</b><br>
       Opprett, finn og meld deg på arrangementer. Google-innlogging med JWT i httpOnly-cookie, tilgangskontroll og sanntid med Socket.IO.<br><br>
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.IO</code><br><br>
-      <a href="https://eventmeeting-f3eu.onrender.com/events">Live demo ↗</a> · <a href="https://github.com/Khhashi/eventhub">Kode</a>
+      <a href="https://eventmeeting-f3eu.onrender.com/events">Live demo ↗</a> · <a href="https://github.com/Khhashi/eventhub">Kode</a><br><sub>⏳ Kjører på Renders gratisnivå, som går i dvale når appen ikke er i bruk. Første besøk kan derfor ta opptil ett minutt.</sub>
     </td>
   </tr>
   <tr>
@@ -41,8 +41,6 @@ Jeg bygger ferdige produkter, fra database og API til brukergrensesnitt og deplo
     </td>
   </tr>
 </table>
-
-<sub>⏳ Appene på Render kan bruke opptil ett minutt på å starte første gang de åpnes.</sub>
 
 ### 🛠️ Teknologi
 
