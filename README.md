@@ -2,7 +2,6 @@
 
 **Fullstack-utvikler · Master i informasjonsteknologi · Oslo 🇳🇴**
 
-Jeg bygger ferdige produkter, fra database og API til brukergrensesnitt og deploy. Jobber mest med React, Next.js, TypeScript, Node.js og .NET.
 
 ### 🚀 Prosjekter
 
