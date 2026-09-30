@@ -2,34 +2,47 @@
 
 **Fullstack-utvikler · Master i informasjonsteknologi · Oslo 🇳🇴**
 
-Jeg liker å bygge ferdige produkter, fra database og API til brukergrensesnitt og deploy. Jobber mest med React, Next.js, TypeScript, Node.js og .NET.
-
-- 🔐 Opptatt av sikkerhet: innlogging med OAuth og JWT, tilgangskontroll på serveren og trygg håndtering av kundedata
-- 🧪 Skriver tester og kjører dem i GitHub Actions på hver pull request
-- 🌐 Alle prosjektene under er live, så du kan prøve dem selv
+Jeg bygger ferdige produkter, fra database og API til brukergrensesnitt og deploy. Jobber mest med React, Next.js, TypeScript, Node.js og .NET.
 
 ### 🚀 Prosjekter
 
-**[Nordly – nettbutikk](https://ordermanager-8ym2.onrender.com)** · [Kode](https://github.com/Khhashi/Nordly)
-Nettbutikk med produktkatalog, handlekurv, frakt og ordrebekreftelse på e-post.
-- Betaling med Stripe Checkout (testmodus) og signert webhook, så ordren først bekreftes etter verifisert betaling
-- Lagdelt arkitektur (Domain, Infrastructure, Web) og 22 NUnit-tester i CI
+<table>
+  <tr>
+    <td width="42%">
+      <a href="https://ordermanager-8ym2.onrender.com"><img src="https://github.com/user-attachments/assets/560c83d7-2a2e-4eed-8974-195f626803af" alt="Nordly nettbutikk" /></a>
+    </td>
+    <td>
+      <b>Nordly – nettbutikk</b><br>
+      Nettbutikk med Stripe Checkout og signert webhook, så ordren først bekreftes etter verifisert betaling. Lagdelt arkitektur og 22 tester i CI.<br><br>
+      <code>C#</code> <code>.NET 8</code> <code>PostgreSQL</code> <code>Stripe</code> <code>Docker</code><br><br>
+      <a href="https://ordermanager-8ym2.onrender.com">Live demo ↗</a> · <a href="https://github.com/Khhashi/Nordly">Kode</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%">
+      <a href="https://eventmeeting-f3eu.onrender.com/events"><img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" alt="Møteplass arrangementsplattform" /></a>
+    </td>
+    <td>
+      <b>Møteplass – arrangementsplattform</b><br>
+      Opprett, finn og meld deg på arrangementer. Google-innlogging med JWT i httpOnly-cookie, tilgangskontroll og sanntid med Socket.IO.<br><br>
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.IO</code><br><br>
+      <a href="https://eventmeeting-f3eu.onrender.com/events">Live demo ↗</a> · <a href="https://github.com/Khhashi/eventhub">Kode</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%">
+      <a href="https://helse-kvalitet-dashboard.vercel.app"><img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" alt="Sykehus- og kvalitetsdata dashboard" /></a>
+    </td>
+    <td>
+      <b>Sykehus- og kvalitetsdata</b><br>
+      Dashboard for å sammenligne helseforetak og følge kvalitetsindikatorer over tid, basert på åpne data fra SKDE.<br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vitest</code><br><br>
+      <a href="https://helse-kvalitet-dashboard.vercel.app">Live demo ↗</a> · <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">Kode</a>
+    </td>
+  </tr>
+</table>
 
-`C#` `.NET 8` `Razor Pages` `PostgreSQL` `EF Core` `Stripe` `Docker`
-
-**[Møteplass – arrangementsplattform](https://eventmeeting-f3eu.onrender.com/events)** · [Kode](https://github.com/Khhashi/eventhub)
-Plattform der brukere kan opprette, finne og melde seg på arrangementer.
-- Google-innlogging med JWT i httpOnly-cookie, og bare arrangøren kan endre egne arrangementer
-- Sanntidsoppdateringer med Socket.IO, søk, filtre og kart med OpenStreetMap
-
-`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Vitest`
-
-**[Sykehus- og kvalitetsdata](https://helse-kvalitet-dashboard.vercel.app)** · [Kode](https://github.com/Khhashi/helse-kvalitet-dashboard)
-Dashboard for å søke i, filtrere og sammenligne kvalitetsindikatorer for helseforetak, basert på åpne data fra SKDE.
-
-`Next.js` `TypeScript` `Tailwind` `Vitest`
-
-> ⏳ Appene på Render kan bruke opptil ett minutt på å starte første gang de åpnes.
+<sub>⏳ Appene på Render kan bruke opptil ett minutt på å starte første gang de åpnes.</sub>
 
 ### 🛠️ Teknologi
 
