@@ -1,51 +1,47 @@
 ### Hei, jeg er Khalid! 👋
 
-**Software Developer | MSc Computer Science | Oslo, Norge 🇳🇴**
+**Fullstack-utvikler · Master i informasjonsteknologi · Oslo 🇳🇴**
 
-Fullstack-utvikler som liker å bygge ferdige produkter – fra database og API til brukergrensesnitt. Jeg jobber mest med React, TypeScript, Node.js og .NET.
+Jeg liker å bygge ferdige produkter, fra database og API til brukergrensesnitt og deploy. Jobber mest med React, Next.js, TypeScript, Node.js og .NET.
+
+- 🔐 Opptatt av sikkerhet: innlogging med OAuth og JWT, tilgangskontroll på serveren og trygg håndtering av kundedata
+- 🧪 Skriver tester og kjører dem i GitHub Actions på hver pull request
+- 🌐 Alle prosjektene under er live, så du kan prøve dem selv
 
 ### 🚀 Prosjekter
 
-**[Møteplass](https://eventmeeting-f3eu.onrender.com)** · [Kode](https://github.com/Khhashi/eventhub)  
-Plattform for arrangementer med søk, kart og sikker innlogging.  
-`React` `Node.js` `Express` `MongoDB`
+**[Nordly – nettbutikk](https://ordermanager-8ym2.onrender.com)** · [Kode](https://github.com/Khhashi/Nordly)
+Nettbutikk med produktkatalog, handlekurv, frakt og ordrebekreftelse på e-post.
+- Betaling med Stripe Checkout (testmodus) og signert webhook, så ordren først bekreftes etter verifisert betaling
+- Lagdelt arkitektur (Domain, Infrastructure, Web) og 22 NUnit-tester i CI
 
-**[Nordly](https://ordermanager-8ym2.onrender.com)** · [Kode](https://github.com/Khhashi/Nordly)  
-Nettbutikk med handlekurv, Stripe Checkout (testmodus), frakt og ordrebekreftelser.  
-`React` `Node.js` `Express` `PostgreSQL` `Stripe`
+`C#` `.NET 8` `Razor Pages` `PostgreSQL` `EF Core` `Stripe` `Docker`
 
-**[Sykehus- og kvalitetsdata](https://helse-kvalitet-dashboard.vercel.app)** · [Kode](https://github.com/Khhashi/helse-kvalitet-dashboard)  
-Dashboard med søk, filtrering og sammenligning av kvalitetsindikatorer for helseforetak, basert på åpne data fra SKDE.  
-`Next.js` `TypeScript` `Tailwind`
+**[Møteplass – arrangementsplattform](https://eventmeeting-f3eu.onrender.com/events)** · [Kode](https://github.com/Khhashi/eventhub)
+Plattform der brukere kan opprette, finne og melde seg på arrangementer.
+- Google-innlogging med JWT i httpOnly-cookie, og bare arrangøren kan endre egne arrangementer
+- Sanntidsoppdateringer med Socket.IO, søk, filtre og kart med OpenStreetMap
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `Vitest`
+
+**[Sykehus- og kvalitetsdata](https://helse-kvalitet-dashboard.vercel.app)** · [Kode](https://github.com/Khhashi/helse-kvalitet-dashboard)
+Dashboard for å søke i, filtrere og sammenligne kvalitetsindikatorer for helseforetak, basert på åpne data fra SKDE.
+
+`Next.js` `TypeScript` `Tailwind` `Vitest`
 
 > ⏳ Appene på Render kan bruke opptil ett minutt på å starte første gang de åpnes.
 
 ### 🛠️ Teknologi
 
-**🎨 Frontend**
+**Frontend**<br>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite)](https://skillicons.dev)
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts)](https://skillicons.dev)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-
-**⚙️ Backend**
-
+**Backend**<br>
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,cs,dotnet)](https://skillicons.dev)
 
-**🗄️ Data og drift**
-
-[![Data og drift](https://skillicons.dev/icons?i=postgres,mongodb,docker,githubactions,vercel)](https://skillicons.dev)  
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**🧪 Testing**
-
-[![Testing](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)  
-![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)  
-![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![NUnit](https://img.shields.io/badge/NUnit-22A34A?style=for-the-badge&logo=dotnet&logoColor=white)
+**Data, drift og testing**<br>
+[![Data og drift](https://skillicons.dev/icons?i=postgres,mongodb,docker,githubactions,vercel,vitest)](https://skillicons.dev)
 
 ### 📫 Kontakt
 
-- 📧 [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/BRUKERNAVN)
-- 📍 Oslo, Norge
+📧 [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com)
