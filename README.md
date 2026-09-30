@@ -12,7 +12,7 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
     </td>
     <td>
       <b>Nordly – nettbutikk</b><br>
-      Nettbutikk med Stripe Checkout og signert webhook, så ordren først bekreftes etter verifisert betaling. Lagdelt arkitektur og 22 tester i CI.<br><br>
+      Nettbutikk med Stripe Checkout og signert webhook, så ordren først bekreftes etter verifisert betaling.<br><br>
       <code>C#</code> <code>.NET 8</code> <code>PostgreSQL</code> <code>Stripe</code> <code>Docker</code><br><br>
       <a href="https://ordermanager-8ym2.onrender.com">Live demo ↗</a> · <a href="https://github.com/Khhashi/Nordly">Kode</a><br><sub>⏳ Kjører på Renders gratisnivå, som går i dvale når appen ikke er i bruk. Første besøk kan derfor ta opptil ett minutt.</sub>
     </td>
