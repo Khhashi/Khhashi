@@ -8,7 +8,7 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
 <table>
   <tr>
     <td width="42%">
-      <a href="https://ordermanager-8ym2.onrender.com"><img src="https://github.com/user-attachments/assets/560c83d7-2a2e-4eed-8974-195f626803af" alt="Nordly nettbutikk" /></a>
+  <a href="https://ordermanager-8ym2.onrender.com"><img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" alt="Forsiden til Nordly nettbutikk" /></a>
     </td>
     <td>
       <b>Nordly – nettbutikk</b><br>
