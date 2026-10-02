@@ -14,7 +14,7 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
       <b>Nordly – nettbutikk</b><br>
       Nettbutikk med Stripe Checkout og signert webhook, så ordren først bekreftes etter verifisert betaling.<br><br>
       <code>C#</code> <code>.NET 8</code> <code>PostgreSQL</code> <code>Stripe</code> <code>Docker</code><br><br>
-      <a href="https://ordermanager-8ym2.onrender.com">Live demo ↗</a> · <a href="https://github.com/Khhashi/Nordly">Kode</a>
+      <a href="https://ordermanager-8ym2.onrender.com">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/Khhashi/Nordly">Kode</a>
     </td>
   </tr>
   <tr>
@@ -25,7 +25,7 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
       <b>Møteplass – arrangementsplattform</b><br>
       Opprett, finn og meld deg på arrangementer. Google-innlogging med JWT i httpOnly-cookie, tilgangskontroll og sanntid med Socket.IO.<br><br>
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.IO</code><br><br>
-      <a href="https://eventmeeting-f3eu.onrender.com/events">Live demo ↗</a> · <a href="https://github.com/Khhashi/eventhub">Kode</a>
+      <a href="https://eventmeeting-f3eu.onrender.com/events">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/Khhashi/eventhub">Kode</a>
     </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
       <b>Sykehus- og kvalitetsdata</b><br>
       Dashboard for å sammenligne helseforetak og følge kvalitetsindikatorer over tid, basert på åpne data fra SKDE.<br><br>
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vitest</code><br><br>
-      <a href="https://helse-kvalitet-dashboard.vercel.app">Live demo ↗</a> · <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">Kode</a>
+      <a href="https://helse-kvalitet-dashboard.vercel.app">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">Kode</a>
     </td>
   </tr>
 </table>
