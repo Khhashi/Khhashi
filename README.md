@@ -41,7 +41,7 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
   </tr>
   <tr>
     <td width="42%">
-      <a href="https://github.com/felleslosninger/einnsyn-frontend">eInnsyn</a>
+      <a href="https://einnsyn.no"><img src="./images/einnsyn-homepage.png" alt="Forsiden til eInnsyn" /></a>
     </td>
     <td>
       <b>eInnsyn – innsyn i offentlig sektor</b><br>
