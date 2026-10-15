@@ -39,6 +39,17 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
       <a href="https://helse-kvalitet-dashboard.vercel.app">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">Kode</a>
     </td>
   </tr>
+  <tr>
+    <td width="42%">
+      <a href="https://github.com/felleslosninger/einnsyn-frontend">eInnsyn</a>
+    </td>
+    <td>
+      <b>eInnsyn – innsyn i offentlig sektor</b><br>
+      Frontend for en tjeneste som gjør offentlig sektor mer åpen og tilgjengelig.<br><br>
+      <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Designsystemet</code><br><br>
+      <a href="https://github.com/felleslosninger/einnsyn-frontend">Kode</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/users/Khhashi/projects/14">Prosjekttavle</a>
+    </td>
+  </tr>
 </table>
 
 ### 🛠️ Teknologi
