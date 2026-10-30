@@ -22,12 +22,12 @@ Jeg liker å bygge digitale løsninger og lære gjennom praktiske prosjekter. Je
 
 Nettbutikk med Stripe Checkout. Ordren bekreftes først etter at betalingen er verifisert.
 
-`C#` ` .NET 8` `PostgreSQL` `Stripe` `Docker`
+`C#` `.NET 8` `PostgreSQL` `Stripe` `Docker`
 
 [🔗 Live demo](https://ordermanager-8ym2.onrender.com/) &nbsp; · &nbsp; [💻 Kode](https://github.com/Khhashi/Nordly) &nbsp; · &nbsp; [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/4)
 
 <a href="https://ordermanager-8ym2.onrender.com/">
-  <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" alt="Forsiden til Nordly nettbutikk" width="720">
+  <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" alt="Forsiden til Nordly nettbutikk" width="500">
 </a>
 
 ### 📅 Møteplass – arrangementsplattform
@@ -39,7 +39,7 @@ Opprett, finn og meld deg på arrangementer. Har Google-innlogging, tilgangskont
 [🔗 Live demo](https://eventmeeting-f3eu.onrender.com/events) &nbsp; · &nbsp; [💻 Kode](https://github.com/Khhashi/eventhub) &nbsp; · &nbsp; [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/9)
 
 <a href="https://eventmeeting-f3eu.onrender.com/events">
-  <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" alt="Møteplass arrangementsplattform" width="720">
+  <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" alt="Møteplass arrangementsplattform" width="500">
 </a>
 
 ### 📊 Sykehus- og kvalitetsdata
@@ -51,7 +51,7 @@ Dashboard for å sammenligne helseforetak og følge kvalitetsindikatorer over ti
 [🔗 Live demo](https://helse-kvalitet-dashboard.vercel.app) &nbsp; · &nbsp; [💻 Kode](https://github.com/Khhashi/helse-kvalitet-dashboard) &nbsp; · &nbsp; [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/12)
 
 <a href="https://helse-kvalitet-dashboard.vercel.app">
-  <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" alt="Dashboard for sykehus- og kvalitetsdata" width="720">
+  <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" alt="Dashboard for sykehus- og kvalitetsdata" width="500">
 </a>
 
 ## 🛠️ Teknologi
