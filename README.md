@@ -24,7 +24,11 @@ Nettbutikk med Stripe Checkout. Ordren bekreftes først etter at betalingen er v
 
 `C#` ` .NET 8` `PostgreSQL` `Stripe` `Docker`
 
-[🔗 Live demo](https://ordermanager-8ym2.onrender.com) · [💻 Kode](https://github.com/Khhashi/Nordly) · [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/4)
+[🔗 Live demo](https://ordermanager-8ym2.onrender.com/) &nbsp; · &nbsp; [💻 Kode](https://github.com/Khhashi/Nordly) &nbsp; · &nbsp; [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/4)
+
+<a href="https://ordermanager-8ym2.onrender.com/">
+  <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" alt="Forsiden til Nordly nettbutikk" width="720">
+</a>
 
 ### 📅 Møteplass – arrangementsplattform
 
@@ -32,7 +36,11 @@ Opprett, finn og meld deg på arrangementer. Har Google-innlogging, tilgangskont
 
 `React` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-[🔗 Live demo](https://eventmeeting-f3eu.onrender.com/events) · [💻 Kode](https://github.com/Khhashi/eventhub) · [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/9)
+[🔗 Live demo](https://eventmeeting-f3eu.onrender.com/events) &nbsp; · &nbsp; [💻 Kode](https://github.com/Khhashi/eventhub) &nbsp; · &nbsp; [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/9)
+
+<a href="https://eventmeeting-f3eu.onrender.com/events">
+  <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" alt="Møteplass arrangementsplattform" width="720">
+</a>
 
 ### 📊 Sykehus- og kvalitetsdata
 
@@ -40,7 +48,11 @@ Dashboard for å sammenligne helseforetak og følge kvalitetsindikatorer over ti
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vitest`
 
-[🔗 Live demo](https://helse-kvalitet-dashboard.vercel.app) · [💻 Kode](https://github.com/Khhashi/helse-kvalitet-dashboard) · [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/12)
+[🔗 Live demo](https://helse-kvalitet-dashboard.vercel.app) &nbsp; · &nbsp; [💻 Kode](https://github.com/Khhashi/helse-kvalitet-dashboard) &nbsp; · &nbsp; [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/12)
+
+<a href="https://helse-kvalitet-dashboard.vercel.app">
+  <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" alt="Dashboard for sykehus- og kvalitetsdata" width="720">
+</a>
 
 ## 🛠️ Teknologi
 
