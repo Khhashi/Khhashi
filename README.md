@@ -11,10 +11,10 @@
   &nbsp; · &nbsp;
   <a href="mailto:khalidkhalif1507@gmail.com">E-post</a>
   &nbsp; · &nbsp;
-  📞 <a href="tel:+4794854081">948 54 081</a>
+  <a href="tel:+4794854081">948 54 081</a>
 </p>
 
-Jeg liker å bygge digitale løsninger og lære gjennom praktiske prosjekter. Jeg bidrar gjerne i åpen kildekode-prosjekter og tar gjerne imot forslag til samarbeid. 💡
+Jeg liker å bygge digitale løsninger og lære gjennom praktiske prosjekter. Jeg bidrar gjerne i åpen kildekode-prosjekter og tar gjerne imot forslag til samarbeid. 
 
 ## 🚀 Prosjekter
 
