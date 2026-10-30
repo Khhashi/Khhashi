@@ -5,17 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a> ·
-  <a href="https://github.com/Khhashi">GitHub</a> ·
-  <a href="mailto:khalidkhalif1507@gmail.com">E-post</a> ·
-  <a href="tel:+4794854081">📞 948 54 081</a>
+  <a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Khhashi">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:khalidkhalif1507@gmail.com">E-post</a>
+  &nbsp; · &nbsp;
+  📞 <a href="tel:+4794854081">948 54 081</a>
 </p>
 
 Jeg liker å bygge digitale løsninger og lære gjennom praktiske prosjekter. Jeg bidrar gjerne i åpen kildekode-prosjekter og tar gjerne imot forslag til samarbeid. 💡
 
 ## 🚀 Prosjekter
 
-### 🛍️ Nordly – Nettbutikk
+### 🛍️ Nordly – nettbutikk
 
 Nettbutikk med Stripe Checkout. Ordren bekreftes først etter at betalingen er verifisert.
 
@@ -23,7 +26,7 @@ Nettbutikk med Stripe Checkout. Ordren bekreftes først etter at betalingen er v
 
 [🔗 Live demo](https://ordermanager-8ym2.onrender.com) · [💻 Kode](https://github.com/Khhashi/Nordly) · [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/4)
 
-### 📅 Møteplass – Arrangementsplattform
+### 📅 Møteplass – arrangementsplattform
 
 Opprett, finn og meld deg på arrangementer. Har Google-innlogging, tilgangskontroll og sanntidsoppdateringer.
 
