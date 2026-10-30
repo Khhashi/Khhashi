@@ -1,57 +1,51 @@
-### Hei, jeg er Khalid! 👋
+<h1 align="center">Hei, jeg er Khalid! 👋</h1>
 
-Fullstack-utvikler · Master i informasjonsteknologi · Oslo
+<p align="center">
+  Fullstack-utvikler · Master i informasjonsteknologi · Oslo 🇳🇴
+</p>
 
-[LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a) · [GitHub](https://github.com/Khhashi)  
-📧 [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com) · 📞 [948 54 081](tel:+4794854081)
+<p align="center">
+  <a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a> ·
+  <a href="https://github.com/Khhashi">GitHub</a> ·
+  <a href="mailto:khalidkhalif1507@gmail.com">E-post</a> ·
+  <a href="tel:+4794854081">📞 948 54 081</a>
+</p>
 
-Jeg er alltid åpen for å bidra i spennende åpen kildekode-prosjekter. Har du et forslag eller lyst til å samarbeide? Ta gjerne kontakt!
+Jeg liker å bygge digitale løsninger og lære gjennom praktiske prosjekter. Jeg bidrar gjerne i åpen kildekode-prosjekter og tar gjerne imot forslag til samarbeid. 💡
 
-### 🚀 Prosjekter
+## 🚀 Prosjekter
 
-<table>
-  <tr>
-    <td width="42%">
-      <a href="https://ordermanager-8ym2.onrender.com"><img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" alt="Forsiden til Nordly nettbutikk" /></a>
-    </td>
-    <td>
-      <b>Nordly – nettbutikk</b><br>
-      Nettbutikk med Stripe Checkout og signert webhook, så ordren først bekreftes etter verifisert betaling.<br><br>
-      <code>C#</code> <code>.NET 8</code> <code>PostgreSQL</code> <code>Stripe</code> <code>Docker</code><br><br>
-      <a href="https://ordermanager-8ym2.onrender.com">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/Khhashi/Nordly">Kode</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/users/Khhashi/projects/4">Prosjekttavle</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="42%">
-      <a href="https://eventmeeting-f3eu.onrender.com/events"><img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" alt="Møteplass arrangementsplattform" /></a>
-    </td>
-    <td>
-      <b>Møteplass – arrangementsplattform</b><br>
-      Opprett, finn og meld deg på arrangementer. Google-innlogging med JWT i httpOnly-cookie, tilgangskontroll og sanntid med Socket.IO.<br><br>
-      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.IO</code><br><br>
-      <a href="https://eventmeeting-f3eu.onrender.com/events">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/Khhashi/eventhub">Kode</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/users/Khhashi/projects/9">Prosjekttavle</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="42%">
-      <a href="https://helse-kvalitet-dashboard.vercel.app"><img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" alt="Sykehus- og kvalitetsdata dashboard" /></a>
-    </td>
-    <td>
-      <b>Sykehus- og kvalitetsdata</b><br>
-      Dashboard for å sammenligne helseforetak og følge kvalitetsindikatorer over tid, basert på åpne data fra SKDE.<br><br>
-      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vitest</code><br><br>
-      <a href="https://helse-kvalitet-dashboard.vercel.app">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">Kode</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/users/Khhashi/projects/12">Prosjekttavle</a>
-    </td>
-  </tr>
-</table>
+### 🛍️ Nordly – Nettbutikk
 
-### 🛠️ Teknologi
+Nettbutikk med Stripe Checkout. Ordren bekreftes først etter at betalingen er verifisert.
 
-**Frontend**<br>
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite)](https://skillicons.dev)
+`C#` ` .NET 8` `PostgreSQL` `Stripe` `Docker`
 
-**Backend**<br>
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,cs,dotnet)](https://skillicons.dev)
+[🔗 Live demo](https://ordermanager-8ym2.onrender.com) · [💻 Kode](https://github.com/Khhashi/Nordly) · [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/4)
 
-**Data, drift og testing**<br>
-[![Data og drift](https://skillicons.dev/icons?i=postgres,mongodb,docker,githubactions,vercel,vitest)](https://skillicons.dev)
+### 📅 Møteplass – Arrangementsplattform
+
+Opprett, finn og meld deg på arrangementer. Har Google-innlogging, tilgangskontroll og sanntidsoppdateringer.
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+[🔗 Live demo](https://eventmeeting-f3eu.onrender.com/events) · [💻 Kode](https://github.com/Khhashi/eventhub) · [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/9)
+
+### 📊 Sykehus- og kvalitetsdata
+
+Dashboard for å sammenligne helseforetak og følge kvalitetsindikatorer over tid, basert på åpne data fra SKDE.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Vitest`
+
+[🔗 Live demo](https://helse-kvalitet-dashboard.vercel.app) · [💻 Kode](https://github.com/Khhashi/helse-kvalitet-dashboard) · [📋 Prosjekttavle](https://github.com/users/Khhashi/projects/12)
+
+## 🛠️ Teknologi
+
+**Frontend**  
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite)
+
+**Backend**  
+![Backend](https://skillicons.dev/icons?i=nodejs,express,cs,dotnet)
+
+**Data, drift og testing**  
+![Data, drift og testing](https://skillicons.dev/icons?i=postgres,mongodb,docker,githubactions,vercel,vitest)
