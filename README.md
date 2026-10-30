@@ -1,14 +1,18 @@
 ### Hei, jeg er Khalid! 👋
 
-Fullstack-utvikler · Master i informasjonsteknologi · Oslo 
+Fullstack-utvikler · Master i informasjonsteknologi · Oslo
 
+[LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a) · [GitHub](https://github.com/Khhashi)  
+📧 [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com) · 📞 [948 54 081](tel:+4794854081)
+
+Jeg er alltid åpen for å bidra i spennende åpen kildekode-prosjekter. Har du et forslag eller lyst til å samarbeide? Ta gjerne kontakt!
 
 ### 🚀 Prosjekter
 
 <table>
   <tr>
     <td width="42%">
-  <a href="https://ordermanager-8ym2.onrender.com"><img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" alt="Forsiden til Nordly nettbutikk" /></a>
+      <a href="https://ordermanager-8ym2.onrender.com"><img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" alt="Forsiden til Nordly nettbutikk" /></a>
     </td>
     <td>
       <b>Nordly – nettbutikk</b><br>
@@ -39,17 +43,6 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
       <a href="https://helse-kvalitet-dashboard.vercel.app">Live demo ↗</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">Kode</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/users/Khhashi/projects/12">Prosjekttavle</a>
     </td>
   </tr>
-  <tr>
-    <td width="42%">
-      <a href="https://einnsyn.no"><img src="./images/einnsyn-homepage.png" alt="Forsiden til eInnsyn" /></a>
-    </td>
-    <td>
-      <b>eInnsyn – innsyn i offentlig sektor</b><br>
-      Frontend for en tjeneste som gjør offentlig sektor mer åpen og tilgjengelig.<br><br>
-      <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Designsystemet</code><br><br>
-      <a href="https://github.com/felleslosninger/einnsyn-frontend">Kode</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://github.com/users/Khhashi/projects/14">Prosjekttavle</a>
-    </td>
-  </tr>
 </table>
 
 ### 🛠️ Teknologi
@@ -62,7 +55,3 @@ Fullstack-utvikler · Master i informasjonsteknologi · Oslo
 
 **Data, drift og testing**<br>
 [![Data og drift](https://skillicons.dev/icons?i=postgres,mongodb,docker,githubactions,vercel,vitest)](https://skillicons.dev)
-
-### 📫 Kontakt
-
-📧 [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com)
