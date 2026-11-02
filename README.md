@@ -1,6 +1,6 @@
 # Hei, jeg er Khalid
 
-Jeg liker å bygge nyttige digitale produkter — fra små nettbutikker til verktøy som gjør offentlige data lettere å utforske. Ved siden av egne prosjekter bidrar jeg til åpen kildekode.
+Jeg bygger digitale produkter jeg gjerne skulle brukt selv — fra en nettbutikk og arrangementsplattform til verktøy for åpne helsedata. Jeg bidrar også til eInnsyn.
 
 [E-post](mailto:khalidkhalif1507@gmail.com) · [LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a)
 
@@ -12,7 +12,7 @@ En nettbutikk med Stripe Checkout. Ordren bekreftes først når betalingen er ve
 
 [Demo](https://ordermanager-8ym2.onrender.com/) · [Kode](https://github.com/Khhashi/Nordly) · [Prosjekttavle](https://github.com/users/Khhashi/projects/4)
 
-<img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="600" alt="Nordly nettbutikk">
+<img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="480" alt="Nordly nettbutikk">
 
 `C#` `.NET 8` `PostgreSQL` `Stripe`
 
@@ -22,7 +22,7 @@ En plattform for å finne lokale arrangementer, invitere andre og holde kontakte
 
 [Demo](https://eventmeeting-f3eu.onrender.com/events) · [Kode](https://github.com/Khhashi/eventhub) · [Prosjekttavle](https://github.com/users/Khhashi/projects/9)
 
-<img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="600" alt="Møteplass arrangementsplattform">
+<img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="480" alt="Møteplass arrangementsplattform">
 
 `React` `Node.js` `MongoDB` `Socket.IO`
 
@@ -32,7 +32,7 @@ Et dashboard laget med åpne SKDE-data for å sammenligne helseforetak og følge
 
 [Åpne dashboardet](https://helse-kvalitet-dashboard.vercel.app) · [Kode](https://github.com/Khhashi/helse-kvalitet-dashboard) · [Prosjekttavle](https://github.com/users/Khhashi/projects/12)
 
-<img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="600" alt="Dashboard for sykehus- og kvalitetsdata">
+<img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="480" alt="Dashboard for sykehus- og kvalitetsdata">
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vitest`
 
@@ -49,7 +49,7 @@ Jeg har bidratt med 19 forslag til eInnsyn frontend, backend og API-spesifikasjo
 - [#434 · Beholde filterverdier med mellomrom](https://github.com/felleslosninger/einnsyn-frontend/pull/434)
 - [#417 · Hindre utrygge videresendinger etter innlogging](https://github.com/felleslosninger/einnsyn-frontend/pull/417)
 
-<img src="./images/einnsyn-homepage.png" width="600" alt="eInnsyns søkeside">
+<img src="./images/einnsyn-homepage.png" width="480" alt="eInnsyns søkeside">
 
 [Se eInnsyn frontend](https://github.com/felleslosninger/einnsyn-frontend)
 
