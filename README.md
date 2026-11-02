@@ -2,6 +2,8 @@
 
 Jeg liker å bygge nyttige digitale produkter — fra små nettbutikker til verktøy som gjør offentlige data lettere å utforske. Ved siden av egne prosjekter bidrar jeg til åpen kildekode.
 
+[E-post](mailto:khalidkhalif1507@gmail.com) · [LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a)
+
 ## Prosjekter
 
 ### [Nordly](https://github.com/Khhashi/Nordly)
@@ -10,7 +12,7 @@ En nettbutikk med Stripe Checkout. Ordren bekreftes først når betalingen er ve
 
 [Demo](https://ordermanager-8ym2.onrender.com/) · [Kode](https://github.com/Khhashi/Nordly) · [Prosjekttavle](https://github.com/users/Khhashi/projects/4)
 
-![Nordly nettbutikk](https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca)
+<img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="600" alt="Nordly nettbutikk">
 
 `C#` `.NET 8` `PostgreSQL` `Stripe`
 
@@ -20,7 +22,7 @@ En plattform for å finne lokale arrangementer, invitere andre og holde kontakte
 
 [Demo](https://eventmeeting-f3eu.onrender.com/events) · [Kode](https://github.com/Khhashi/eventhub) · [Prosjekttavle](https://github.com/users/Khhashi/projects/9)
 
-![Møteplass arrangementsplattform](https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05)
+<img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="600" alt="Møteplass arrangementsplattform">
 
 `React` `Node.js` `MongoDB` `Socket.IO`
 
@@ -30,7 +32,7 @@ Et dashboard laget med åpne SKDE-data for å sammenligne helseforetak og følge
 
 [Åpne dashboardet](https://helse-kvalitet-dashboard.vercel.app) · [Kode](https://github.com/Khhashi/helse-kvalitet-dashboard) · [Prosjekttavle](https://github.com/users/Khhashi/projects/12)
 
-![Dashboard for sykehus- og kvalitetsdata](https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406)
+<img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="600" alt="Dashboard for sykehus- og kvalitetsdata">
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vitest`
 
@@ -47,7 +49,7 @@ Jeg har bidratt med 19 forslag til eInnsyn frontend, backend og API-spesifikasjo
 - [#434 · Beholde filterverdier med mellomrom](https://github.com/felleslosninger/einnsyn-frontend/pull/434)
 - [#417 · Hindre utrygge videresendinger etter innlogging](https://github.com/felleslosninger/einnsyn-frontend/pull/417)
 
-![eInnsyns søkeside](./images/einnsyn-homepage.png)
+<img src="./images/einnsyn-homepage.png" width="600" alt="eInnsyns søkeside">
 
 [Se eInnsyn frontend](https://github.com/felleslosninger/einnsyn-frontend)
 
@@ -87,7 +89,3 @@ Jeg har bidratt med 19 forslag til eInnsyn frontend, backend og API-spesifikasjo
 ## Verktøy
 
 `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Vite` `Node.js` `.NET` `C#` `PostgreSQL` `MongoDB` `Vitest` `Docker`
-
----
-
-[E-post](mailto:khalidkhalif1507@gmail.com) · [LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a)
