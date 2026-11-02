@@ -1,63 +1,91 @@
-# Hei, jeg er Khalid
+<p align="center">
+  <sub>FULLSTACK-UTVIKLER · OSLO</sub>
+</p>
 
-Jeg bygger digitale produkter jeg gjerne skulle brukt selv — fra en nettbutikk og arrangementsplattform til verktøy for åpne helsedata. Jeg bidrar også til eInnsyn.
+<h1 align="center">Hei, jeg er Khalid 👋</h1>
 
-| Kontakt | Lenke |
-| --- | --- |
-| E-post | [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com) |
-| LinkedIn | [Khalid Hashi](https://no.linkedin.com/in/khalid-hashi-18b97119a) |
+<p align="center">
+  Jeg liker å finne ut hvorfor ting ikke virker — og få dem til å virke.
+</p>
 
-## Prosjekter
+<p align="center">
+  <a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a> ·
+  <a href="https://github.com/Khhashi">GitHub-prosjekter</a> ·
+  <a href="mailto:khalidkhalif1507@gmail.com">E-post</a>
+</p>
 
-### [Nordly](https://github.com/Khhashi/Nordly)
+## 01 / Egne prosjekter
 
-En nettbutikk med Stripe Checkout. Ordren bekreftes først når betalingen er verifisert.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="100%" alt="Nordly nettbutikk">
+      <p><sub>NETTBUTIKK · BETALING</sub></p>
+      <h3><a href="https://github.com/Khhashi/Nordly">🛍️ Nordly</a></h3>
+      <p>Stripe Checkout, der ordren først bekreftes etter at betalingen er verifisert.</p>
+      <p><a href="https://ordermanager-8ym2.onrender.com/">↗ Demo</a> · <a href="https://github.com/Khhashi/Nordly">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/4">Tavle</a></p>
+      <sub>C# · .NET 8 · PostgreSQL · Stripe · Docker</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="100%" alt="Møteplass arrangementsplattform">
+      <p><sub>ARRANGEMENTER · SANNTID</sub></p>
+      <h3><a href="https://github.com/Khhashi/eventhub">📅 Møteplass</a></h3>
+      <p>Opprett arrangementer, finn noe å bli med på og meld deg på — med Google-innlogging.</p>
+      <p><a href="https://eventmeeting-f3eu.onrender.com/events">↗ Demo</a> · <a href="https://github.com/Khhashi/eventhub">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/9">Tavle</a></p>
+      <sub>React · Node.js · MongoDB · Socket.IO</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="100%" alt="Dashboard for sykehus- og kvalitetsdata">
+      <p><sub>ÅPNE DATA · HELSE</sub></p>
+      <h3><a href="https://github.com/Khhashi/helse-kvalitet-dashboard">📊 Sykehusdata</a></h3>
+      <p>Åpne SKDE-data gjør det mulig å sammenligne helseforetak og følge kvalitetsindikatorer.</p>
+      <p><a href="https://helse-kvalitet-dashboard.vercel.app">↗ Demo</a> · <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/12">Tavle</a></p>
+      <sub>Next.js · TypeScript · Tailwind CSS · Vitest</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <p><sub>SAKSBEHANDLING · NAV</sub></p>
+      <h3><a href="https://github.com/Khhashi/watson-sak-frontend">Watson Sak for NAV</a></h3>
+      <p>Frontend for saksbehandling, bygget med React Router og Navs Aksel-designsystem.</p>
+      <p><a href="https://github.com/Khhashi/watson-sak-frontend">⌘ Kode</a> · <sub>React · TypeScript · Aksel</sub></p>
+    </td>
+  </tr>
+</table>
 
-[Demo](https://ordermanager-8ym2.onrender.com/) · [Kode](https://github.com/Khhashi/Nordly) · [Prosjekttavle](https://github.com/users/Khhashi/projects/4)
+## 02 / Åpen kildekode
 
-<img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="480" alt="Nordly nettbutikk">
+Jeg har sendt 19 forslag til eInnsyn på tvers av frontend, backend og API-spesifikasjonen. To frontend-bidrag er merget.
 
-`C#` `.NET 8` `PostgreSQL` `Stripe`
-
-### [Møteplass](https://github.com/Khhashi/eventhub)
-
-En plattform for å finne lokale arrangementer, invitere andre og holde kontakten i sanntid.
-
-[Demo](https://eventmeeting-f3eu.onrender.com/events) · [Kode](https://github.com/Khhashi/eventhub) · [Prosjekttavle](https://github.com/users/Khhashi/projects/9)
-
-<img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="480" alt="Møteplass arrangementsplattform">
-
-`React` `Node.js` `MongoDB` `Socket.IO`
-
-### [Sykehusdata](https://github.com/Khhashi/helse-kvalitet-dashboard)
-
-Et dashboard laget med åpne SKDE-data for å sammenligne helseforetak og følge kvalitetsindikatorer.
-
-[Åpne dashboardet](https://helse-kvalitet-dashboard.vercel.app) · [Kode](https://github.com/Khhashi/helse-kvalitet-dashboard) · [Prosjekttavle](https://github.com/users/Khhashi/projects/12)
-
-<img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="480" alt="Dashboard for sykehus- og kvalitetsdata">
-
-`Next.js` `TypeScript` `Tailwind CSS` `Vitest`
-
-### [Watson Sak for NAV](https://github.com/Khhashi/watson-sak-frontend)
-
-Frontend for saksbehandling, bygget med React Router og Navs Aksel-designsystem.
-
-[Kode](https://github.com/Khhashi/watson-sak-frontend) · `React` `TypeScript` `Aksel`
-
-## Åpen kildekode
-
-Jeg har bidratt med 19 forslag til eInnsyn frontend, backend og API-spesifikasjon. To av frontend-bidragene er merget:
-
-- [#434 · Beholde filterverdier med mellomrom](https://github.com/felleslosninger/einnsyn-frontend/pull/434)
-- [#417 · Hindre utrygge videresendinger etter innlogging](https://github.com/felleslosninger/einnsyn-frontend/pull/417)
-
-<img src="./images/einnsyn-homepage.png" width="480" alt="eInnsyns søkeside">
-
-[Se eInnsyn frontend](https://github.com/felleslosninger/einnsyn-frontend)
+<table>
+  <thead>
+    <tr>
+      <th align="left">Prosjekt</th>
+      <th align="left">Bidrag</th>
+      <th align="left">Lenke</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>eInnsyn frontend</strong><br><sub>Brukergrensesnitt for offentlig innsyn</sub></td>
+      <td>12 forslag · 2 merget</td>
+      <td><a href="https://github.com/felleslosninger/einnsyn-frontend">Se kode ↗</a></td>
+    </tr>
+    <tr>
+      <td><strong>eInnsyn backend</strong><br><sub>API og saksbehandlingslogikk</sub></td>
+      <td>5 forslag</td>
+      <td><a href="https://github.com/felleslosninger/einnsyn-backend">Se kode ↗</a></td>
+    </tr>
+    <tr>
+      <td><strong>eInnsyn API-spesifikasjon</strong><br><sub>Beskrivelse av API-et</sub></td>
+      <td>2 forslag</td>
+      <td><a href="https://github.com/felleslosninger/einnsyn-api-spec">Se kode ↗</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <details>
-<summary>Se alle eInnsyn-forslagene mine</summary>
+<summary>Se alle 19 forslagene</summary>
 
 **Frontend**
 
@@ -89,6 +117,6 @@ Jeg har bidratt med 19 forslag til eInnsyn frontend, backend og API-spesifikasjo
 
 </details>
 
-## Verktøy
+## 03 / Verktøy
 
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Vite` `Node.js` `.NET` `C#` `PostgreSQL` `MongoDB` `Vitest` `Docker`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Vite` · `Node.js` · `.NET` · `C#` · `PostgreSQL` · `MongoDB` · `Vitest` · `Docker`
