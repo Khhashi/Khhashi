@@ -1,5 +1,8 @@
-<p align="center"><sub>FULLSTACK-UTVIKLER · OSLO</sub></p>
-<h1 align="center">Hei, jeg er Khalid 👋</h1>
+<p align="center"><sub>EN KORT FILM OM KODE, IDEER OG ÅPEN KILDEKODE</sub></p>
+<h1 align="center">Khalid Hashi</h1>
+<p align="center">Fullstack-utvikler · Oslo</p>
+
+https://github.com/user-attachments/assets/ed347713-2b94-44e1-a12b-306ee6849411
 
 <p align="center">Jeg liker å finne ut hvorfor ting ikke virker — og få dem til å virke.</p>
 
@@ -49,7 +52,7 @@
     <td width="65%" valign="top">
       <sub>BIDRAG · DIGDIR</sub>
       <h3>eInnsyn</h3>
-      <p>Jeg har bidratt med feilrettinger og forbedringer. Flere av pull requestene mine er gjennomgått og merget.</p>
+      <p>Jeg har bidratt med feilrettinger og forbedringer. Blant annet <a href="https://github.com/felleslosninger/einnsyn-backend/pull/434">bevaring av filterverdier med mellomrom</a> og <a href="https://github.com/felleslosninger/einnsyn-backend/pull/417">tryggere redirect etter innlogging</a>.</p>
     </td>
     <td valign="middle">
       <a href="https://github.com/felleslosninger/einnsyn-frontend">Se eInnsyn-koden ↗</a>
