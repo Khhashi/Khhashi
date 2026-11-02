@@ -1,56 +1,53 @@
 # Hei, jeg er Khalid
 
-Jeg er utvikler i Oslo. Jeg lærer best ved å bygge ting, teste dem og finne ut hvorfor noe ikke virker.
+Jeg bygger ting fra Oslo. Her er prosjektene mine, det jeg har bidratt med til åpen kildekode, og litt av det jeg lærer underveis.
 
-Her er en liten omvisning i det jeg holder på med. Trykk på en dør for å gå inn.
+Velkommen til terminalen min. Velg en avgang:
 
-https://github.com/user-attachments/assets/1056d206-44bd-41bc-8596-d5bfe93eff8c
+https://github.com/user-attachments/assets/abfa5c47-ad83-4ec1-8dc4-400b22e12232
 
-## Velg en dør
+## Avgangstavle
 
-<details>
-<summary>🚪 Nordly — nettbutikk</summary>
+| Gate | Destinasjon | Hva du finner der |
+|:---:|---|---|
+| 01 | [Nordly](#gate-01-nordly) | Nettbutikk · Stripe |
+| 02 | [Møteplass](#gate-02-moteplass) | Arrangementer · sanntid |
+| 03 | [Sykehusdata](#gate-03-sykehusdata) | Åpne helsedata |
+| 04 | [eInnsyn](#gate-04-einnsyn) | Åpen kildekode · PR-status |
+
+### Gate 01: Nordly
 
 [![Nordly nettbutikk](https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca)](https://ordermanager-8ym2.onrender.com/)
 
 Jeg bygde en nettbutikk med Stripe Checkout. Ordren bekreftes først når betalingen er verifisert.
 
-[Åpne demoen](https://ordermanager-8ym2.onrender.com/) · [Se koden](https://github.com/Khhashi/Nordly) · [Prosjekttavle](https://github.com/users/Khhashi/projects/4)
+[Demo](https://ordermanager-8ym2.onrender.com/) · [Kode](https://github.com/Khhashi/Nordly) · [Tavle](https://github.com/users/Khhashi/projects/4)
 
 `C#` `.NET 8` `PostgreSQL` `Stripe` `Docker`
 
-</details>
-
-<details>
-<summary>🚪 Møteplass — finn noe å bli med på</summary>
+### Gate 02: Møteplass
 
 [![Møteplass arrangementsplattform](https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05)](https://eventmeeting-f3eu.onrender.com/events)
 
-En arrangementsplattform der du kan opprette arrangementer, finne noe å bli med på og melde deg på. Jeg la også til Google-innlogging og sanntidsfunksjoner.
+Jeg ville lage et sted der folk kan finne lokale arrangementer — eller lage et selv og invitere andre. Her er det Google-innlogging og sanntidsfunksjoner også.
 
-[Åpne demoen](https://eventmeeting-f3eu.onrender.com/events) · [Se koden](https://github.com/Khhashi/eventhub) · [Prosjekttavle](https://github.com/users/Khhashi/projects/9)
+[Demo](https://eventmeeting-f3eu.onrender.com/events) · [Kode](https://github.com/Khhashi/eventhub) · [Tavle](https://github.com/users/Khhashi/projects/9)
 
 `React` `Node.js` `MongoDB` `Socket.IO`
 
-</details>
-
-<details>
-<summary>🚪 Sykehusdata — åpne helsedata</summary>
+### Gate 03: Sykehusdata
 
 [![Dashboard for sykehus- og kvalitetsdata](https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406)](https://helse-kvalitet-dashboard.vercel.app)
 
-Her kan du sammenligne helseforetak og følge kvalitetsindikatorer med åpne data fra SKDE.
+Jeg brukte åpne SKDE-data for å gjøre det lettere å sammenligne helseforetak og følge kvalitetsindikatorer.
 
-[Åpne dashboardet](https://helse-kvalitet-dashboard.vercel.app) · [Se koden](https://github.com/Khhashi/helse-kvalitet-dashboard) · [Prosjekttavle](https://github.com/users/Khhashi/projects/12)
+[Dashboard](https://helse-kvalitet-dashboard.vercel.app) · [Kode](https://github.com/Khhashi/helse-kvalitet-dashboard) · [Tavle](https://github.com/users/Khhashi/projects/12)
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vitest`
 
-</details>
+### Gate 04: eInnsyn
 
-<details>
-<summary>🚪 Bakrommet — åpen kildekode</summary>
-
-Jeg har bidratt i frontend, backend og API-spesifikasjonen. Her er PR-ene mine med status, så det er tydelig hva som er åpent, merget eller lukket.
+Jeg har sendt inn 19 PR-er til frontend, backend og API-spesifikasjonen. To frontend-endringer er merget; resten er merket med status så det er lett å se hva som fortsatt er åpent eller ble lukket.
 
 **Frontend**
 
@@ -85,6 +82,7 @@ Jeg har bidratt i frontend, backend og API-spesifikasjonen. Her er PR-ene mine m
 
 **Backend**
 
+- [#794 · Kontrollere lenkesjekk når kilde-URL endres](https://github.com/felleslosninger/einnsyn-backend/pull/794)
 - [#788 · Sende kladder for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-backend/pull/788)
 - [#787 · Lagre kladder for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-backend/pull/787)
 
@@ -92,17 +90,12 @@ Jeg har bidratt i frontend, backend og API-spesifikasjonen. Her er PR-ene mine m
 
 [Se eInnsyn-koden](https://github.com/felleslosninger/einnsyn-frontend)
 
-</details>
-
-<details>
-<summary>🚪 Verkstedet — verktøy jeg bruker</summary>
+## I håndbagasjen
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite
 - **Backend og data:** Node.js, Express, C#, .NET, PostgreSQL, MongoDB
 - **Testing og drift:** Vitest, Docker, GitHub Actions
 
-</details>
-
 ---
 
-Har du lyst til å bygge noe sammen? [Send meg en e-post](mailto:khalidkhalif1507@gmail.com), eller finn meg på [LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a).
+Neste avgang? [Send meg en e-post](mailto:khalidkhalif1507@gmail.com) eller finn meg på [LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a).
