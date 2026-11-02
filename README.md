@@ -1,10 +1,10 @@
 # Hei, jeg er Khalid
 
-Jeg bygger egne prosjekter og bidrar til åpen kildekode. Her er litt av det jeg har laget og lært underveis.
+Jeg bygger egne prosjekter og bidrar til åpen kildekode.
 
-Her finner du både egne prosjekter og åpen kildekode-bidrag. Velg en avgang:
+Velkommen inn. Tavla viser noen av prosjektene mine og bidragene mine til åpen kildekode.
 
-![Animasjon av prosjekt-terminalen](./images/terminal.gif)
+![Ankomst i terminalen med avgangstavle for prosjektene](./images/arrival.gif)
 
 ## Avgangstavle
 
@@ -13,11 +13,12 @@ Her finner du både egne prosjekter og åpen kildekode-bidrag. Velg en avgang:
 | 01 | [Nordly](#gate-01-nordly) | Nettbutikk · Stripe |
 | 02 | [Møteplass](#gate-02-moteplass) | Arrangementer · sanntid |
 | 03 | [Sykehusdata](#gate-03-sykehusdata) | Åpne helsedata |
-| 04 | [eInnsyn](#gate-04-einnsyn) | Åpen kildekode · PR-status |
+| 04 | [Watson Sak · NAV](#gate-04-watson-sak-for-nav) | Saksbehandling |
+| 05 | [eInnsyn](#gate-05-einnsyn) | Åpen kildekode · PR-status |
 
 ### Gate 01: Nordly
 
-[![Nordly nettbutikk](./images/nordly.gif)](https://ordermanager-8ym2.onrender.com/)
+[![Nordly nettbutikk](https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca)](https://ordermanager-8ym2.onrender.com/)
 
 Jeg bygde en nettbutikk med Stripe Checkout. Ordren bekreftes først når betalingen er verifisert.
 
@@ -27,7 +28,7 @@ Jeg bygde en nettbutikk med Stripe Checkout. Ordren bekreftes først når betali
 
 ### Gate 02: Møteplass
 
-[![Møteplass arrangementsplattform](./images/moteplass.gif)](https://eventmeeting-f3eu.onrender.com/events)
+[![Møteplass arrangementsplattform](https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05)](https://eventmeeting-f3eu.onrender.com/events)
 
 Jeg ville lage et sted der folk kan finne lokale arrangementer — eller lage et selv og invitere andre. Her er det Google-innlogging og sanntidsfunksjoner også.
 
@@ -37,7 +38,7 @@ Jeg ville lage et sted der folk kan finne lokale arrangementer — eller lage et
 
 ### Gate 03: Sykehusdata
 
-[![Dashboard for sykehus- og kvalitetsdata](./images/sykehusdata.gif)](https://helse-kvalitet-dashboard.vercel.app)
+[![Dashboard for sykehus- og kvalitetsdata](https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406)](https://helse-kvalitet-dashboard.vercel.app)
 
 Jeg brukte åpne SKDE-data for å gjøre det lettere å sammenligne helseforetak og følge kvalitetsindikatorer.
 
@@ -45,9 +46,17 @@ Jeg brukte åpne SKDE-data for å gjøre det lettere å sammenligne helseforetak
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vitest`
 
-### Gate 04: eInnsyn
+### Gate 04: Watson Sak for NAV
 
-![eInnsyns søkeside](./images/einnsyn.gif)
+Frontend for saksbehandling i Watson Sak hos NAV, bygget med React Router, React og Navs Aksel-designsystem.
+
+[Kode](https://github.com/Khhashi/watson-sak-frontend)
+
+`React` `React Router` `TypeScript` `Aksel`
+
+### Gate 05: eInnsyn
+
+![eInnsyns søkeside](./images/einnsyn-homepage.png)
 
 Jeg har sendt inn 19 PR-er til frontend, backend og API-spesifikasjonen. To frontend-endringer er merget; resten er merket med status så det er lett å se hva som fortsatt er åpent eller ble lukket.
 
