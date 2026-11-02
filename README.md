@@ -2,11 +2,9 @@
 
 Jeg bygger egne prosjekter og bidrar til åpen kildekode.
 
-Her er noen av tingene jeg har laget selv, og bidrag jeg har sendt inn.
+![Khalid tar en kaffe og åpner GitHub for å vise prosjektene sine](./images/coffee-projects.gif)
 
-![Ankomst i terminalen med avgangstavle for prosjektene](./images/arrival.gif)
-
-### Gate 01: Nordly
+### Nordly
 
 [![Nordly nettbutikk](https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca)](https://ordermanager-8ym2.onrender.com/)
 
@@ -16,7 +14,7 @@ Jeg bygde en nettbutikk med Stripe Checkout. Ordren bekreftes først når betali
 
 `C#` `.NET 8` `PostgreSQL` `Stripe` `Docker`
 
-### Gate 02: Møteplass
+### Møteplass
 
 [![Møteplass arrangementsplattform](https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05)](https://eventmeeting-f3eu.onrender.com/events)
 
@@ -26,7 +24,7 @@ Jeg ville lage et sted der folk kan finne lokale arrangementer — eller lage et
 
 `React` `Node.js` `MongoDB` `Socket.IO`
 
-### Gate 03: Sykehusdata
+### Sykehusdata
 
 [![Dashboard for sykehus- og kvalitetsdata](https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406)](https://helse-kvalitet-dashboard.vercel.app)
 
@@ -36,7 +34,7 @@ Jeg brukte åpne SKDE-data for å gjøre det lettere å sammenligne helseforetak
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vitest`
 
-### Gate 04: Watson Sak for NAV
+### Watson Sak for NAV
 
 Frontend for saksbehandling i Watson Sak hos NAV, bygget med React Router, React og Navs Aksel-designsystem.
 
@@ -44,7 +42,7 @@ Frontend for saksbehandling i Watson Sak hos NAV, bygget med React Router, React
 
 `React` `React Router` `TypeScript` `Aksel`
 
-### Gate 05: eInnsyn
+### eInnsyn
 
 ![eInnsyns søkeside](./images/einnsyn-homepage.png)
 
@@ -91,7 +89,7 @@ Jeg har sendt inn 19 PR-er til frontend, backend og API-spesifikasjonen. To fron
 
 [Se eInnsyn-koden](https://github.com/felleslosninger/einnsyn-frontend)
 
-## I håndbagasjen
+## Verktøy
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite
 - **Backend og data:** Node.js, Express, C#, .NET, PostgreSQL, MongoDB
@@ -99,4 +97,4 @@ Jeg har sendt inn 19 PR-er til frontend, backend og API-spesifikasjonen. To fron
 
 ---
 
-Neste avgang? [Send meg en e-post](mailto:khalidkhalif1507@gmail.com) eller finn meg på [LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a).
+[Send meg en e-post](mailto:khalidkhalif1507@gmail.com) · [LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a)
