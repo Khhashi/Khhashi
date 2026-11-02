@@ -1,10 +1,10 @@
 # Hei, jeg er Khalid
 
-Jeg bygger ting fra Oslo. Her er prosjektene mine, det jeg har bidratt med til åpen kildekode, og litt av det jeg lærer underveis.
+Jeg bygger egne prosjekter og bidrar til åpen kildekode. Her er litt av det jeg har laget og lært underveis.
 
-Velkommen til terminalen min. Velg en avgang:
+Her finner du både egne prosjekter og åpen kildekode-bidrag. Velg en avgang:
 
-https://github.com/user-attachments/assets/abfa5c47-ad83-4ec1-8dc4-400b22e12232
+![Animasjon av prosjekt-terminalen](./images/terminal.gif)
 
 ## Avgangstavle
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/abfa5c47-ad83-4ec1-8dc4-400b22e12232
 
 ### Gate 01: Nordly
 
-[![Nordly nettbutikk](https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca)](https://ordermanager-8ym2.onrender.com/)
+[![Nordly nettbutikk](./images/nordly.gif)](https://ordermanager-8ym2.onrender.com/)
 
 Jeg bygde en nettbutikk med Stripe Checkout. Ordren bekreftes først når betalingen er verifisert.
 
@@ -27,7 +27,7 @@ Jeg bygde en nettbutikk med Stripe Checkout. Ordren bekreftes først når betali
 
 ### Gate 02: Møteplass
 
-[![Møteplass arrangementsplattform](https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05)](https://eventmeeting-f3eu.onrender.com/events)
+[![Møteplass arrangementsplattform](./images/moteplass.gif)](https://eventmeeting-f3eu.onrender.com/events)
 
 Jeg ville lage et sted der folk kan finne lokale arrangementer — eller lage et selv og invitere andre. Her er det Google-innlogging og sanntidsfunksjoner også.
 
@@ -37,7 +37,7 @@ Jeg ville lage et sted der folk kan finne lokale arrangementer — eller lage et
 
 ### Gate 03: Sykehusdata
 
-[![Dashboard for sykehus- og kvalitetsdata](https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406)](https://helse-kvalitet-dashboard.vercel.app)
+[![Dashboard for sykehus- og kvalitetsdata](./images/sykehusdata.gif)](https://helse-kvalitet-dashboard.vercel.app)
 
 Jeg brukte åpne SKDE-data for å gjøre det lettere å sammenligne helseforetak og følge kvalitetsindikatorer.
 
@@ -46,6 +46,8 @@ Jeg brukte åpne SKDE-data for å gjøre det lettere å sammenligne helseforetak
 `Next.js` `TypeScript` `Tailwind CSS` `Vitest`
 
 ### Gate 04: eInnsyn
+
+![eInnsyns søkeside](./images/einnsyn.gif)
 
 Jeg har sendt inn 19 PR-er til frontend, backend og API-spesifikasjonen. To frontend-endringer er merget; resten er merket med status så det er lett å se hva som fortsatt er åpent eller ble lukket.
 
