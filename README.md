@@ -4,7 +4,7 @@ Jeg er utvikler i Oslo. Jeg lærer best ved å bygge ting, teste dem og finne ut
 
 Her er en liten omvisning i det jeg holder på med. Trykk på en dør for å gå inn.
 
-https://github.com/user-attachments/assets/ed347713-2b94-44e1-a12b-306ee6849411
+https://github.com/user-attachments/assets/1056d206-44bd-41bc-8596-d5bfe93eff8c
 
 ## Velg en dør
 
@@ -50,12 +50,47 @@ Her kan du sammenligne helseforetak og følge kvalitetsindikatorer med åpne dat
 <details>
 <summary>🚪 Bakrommet — åpen kildekode</summary>
 
-Jeg bidrar også til eInnsyn. To frontend-endringer som har blitt merget:
+Jeg har bidratt i frontend, backend og API-spesifikasjonen. Her er PR-ene mine med status, så det er tydelig hva som er åpent, merget eller lukket.
 
-- [Beholde mellomrom i filterverdier](https://github.com/felleslosninger/einnsyn-frontend/pull/434)
-- [Hindre utrygge videresendinger etter innlogging](https://github.com/felleslosninger/einnsyn-frontend/pull/417)
+**Frontend**
 
-[Se eInnsyn-koden](https://github.com/felleslosninger/einnsyn-frontend) · Jeg følger også med på det [NAV deler åpent på GitHub](https://github.com/navikt).
+- [#480 · Hindre tomt datofilter ved fokus](https://github.com/felleslosninger/einnsyn-frontend/pull/480) — Åpen
+- [#478 · Fjerne API-nøkkel etter vellykket sletting](https://github.com/felleslosninger/einnsyn-frontend/pull/478) — Åpen
+- [#475 · Synkronisere enum-filter med URL](https://github.com/felleslosninger/einnsyn-frontend/pull/475) — Åpen
+- [#473 · Oversette etiketter for egendefinert datoperiode](https://github.com/felleslosninger/einnsyn-frontend/pull/473) — Åpen
+- [#440 · Legge møter til i kalender fra søkeresultater](https://github.com/felleslosninger/einnsyn-frontend/pull/440) — Åpen
+- [#435 · Åpne dokumenter fra journalpostresultater](https://github.com/felleslosninger/einnsyn-frontend/pull/435) — Åpen
+- [#434 · Beholde filterverdier med mellomrom](https://github.com/felleslosninger/einnsyn-frontend/pull/434) — **Merget**
+- [#424 · Fortsette søket når et filter er ukjent](https://github.com/felleslosninger/einnsyn-frontend/pull/424) — Åpen
+- [#421 · Holde mislykkede søk adskilt](https://github.com/felleslosninger/einnsyn-frontend/pull/421) — Åpen
+- [#417 · Hindre utrygge videresendinger etter innlogging](https://github.com/felleslosninger/einnsyn-frontend/pull/417) — **Merget**
+
+**Backend**
+
+- [#796 · Beholde enhetsfilter ved konvertering av lagrede søk](https://github.com/felleslosninger/einnsyn-backend/pull/796) — Åpen
+- [#784 · Teste innholdet i e-poster om tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-backend/pull/784) — Åpen
+
+**API-spesifikasjon**
+
+- [#71 · Legge til kladdfelt for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-api-spec/pull/71) — Lukket, ikke merget
+- [#72 · Legge til send-endepunkt for kladder](https://github.com/felleslosninger/einnsyn-api-spec/pull/72) — Lukket, ikke merget
+
+<details>
+<summary>Flere forslag som ble lukket uten merge</summary>
+
+**Frontend**
+
+- [#467 · Beholde filterverdier med mellomrom](https://github.com/felleslosninger/einnsyn-frontend/pull/467)
+- [#431 · Vise riktig header på oversatte sider](https://github.com/felleslosninger/einnsyn-frontend/pull/431)
+
+**Backend**
+
+- [#788 · Sende kladder for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-backend/pull/788)
+- [#787 · Lagre kladder for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-backend/pull/787)
+
+</details>
+
+[Se eInnsyn-koden](https://github.com/felleslosninger/einnsyn-frontend)
 
 </details>
 
