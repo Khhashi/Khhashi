@@ -2,7 +2,7 @@
 
 Jeg bygger egne prosjekter og bidrar til åpen kildekode.
 
-![Khalid tar en kaffe og åpner GitHub for å vise prosjektene sine](./images/coffee-projects.gif)
+![En person med kaffe ved laptopen; GitHub-prosjektene vises på skjermen. Foto: Thought Catalog / Unsplash](./images/coffee-projects.gif)
 
 ### Nordly
 
