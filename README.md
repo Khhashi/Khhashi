@@ -2,7 +2,10 @@
 
 Jeg bygger digitale produkter jeg gjerne skulle brukt selv — fra en nettbutikk og arrangementsplattform til verktøy for åpne helsedata. Jeg bidrar også til eInnsyn.
 
-[E-post](mailto:khalidkhalif1507@gmail.com) · [LinkedIn](https://no.linkedin.com/in/khalid-hashi-18b97119a)
+| Kontakt | Lenke |
+| --- | --- |
+| E-post | [khalidkhalif1507@gmail.com](mailto:khalidkhalif1507@gmail.com) |
+| LinkedIn | [Khalid Hashi](https://no.linkedin.com/in/khalid-hashi-18b97119a) |
 
 ## Prosjekter
 
