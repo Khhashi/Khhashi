@@ -57,6 +57,10 @@
 
 Jeg har sendt 19 forslag til eInnsyn på tvers av frontend, backend og API-spesifikasjonen. To frontend-bidrag er merget.
 
+<a href="https://github.com/felleslosninger/einnsyn-frontend">
+  <img src="./images/einnsyn-homepage.png" width="480" alt="eInnsyns søkeside">
+</a>
+
 <table>
   <thead>
     <tr>
