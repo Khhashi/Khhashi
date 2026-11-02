@@ -2,19 +2,9 @@
 
 Jeg bygger egne prosjekter og bidrar til åpen kildekode.
 
-Velkommen inn. Tavla viser noen av prosjektene mine og bidragene mine til åpen kildekode.
+Her er noen av tingene jeg har laget selv, og bidrag jeg har sendt inn.
 
 ![Ankomst i terminalen med avgangstavle for prosjektene](./images/arrival.gif)
-
-## Avgangstavle
-
-| Gate | Destinasjon | Hva du finner der |
-|:---:|---|---|
-| 01 | [Nordly](#gate-01-nordly) | Nettbutikk · Stripe |
-| 02 | [Møteplass](#gate-02-moteplass) | Arrangementer · sanntid |
-| 03 | [Sykehusdata](#gate-03-sykehusdata) | Åpne helsedata |
-| 04 | [Watson Sak · NAV](#gate-04-watson-sak-for-nav) | Saksbehandling |
-| 05 | [eInnsyn](#gate-05-einnsyn) | Åpen kildekode · PR-status |
 
 ### Gate 01: Nordly
 
