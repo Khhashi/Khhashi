@@ -3,8 +3,6 @@
 
 <p align="center">Jeg liker å finne ut hvorfor ting ikke virker — og få dem til å virke.</p>
 
-![Kort prosjektfilm med Nordly, Møteplass, sykehusdata og eInnsyn](./khalid-project-film.mp4)
-
 <p align="center">
   <a href="https://no.linkedin.com/in/khalid-hashi-18b97119a"><img src="https://img.shields.io/badge/LinkedIn-ta_kontakt-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Khhashi"><img src="https://img.shields.io/badge/GitHub-prosjekter-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
