@@ -14,40 +14,9 @@
   <a href="mailto:khalidkhalif1507@gmail.com">E-post</a>
 </p>
 
-## 01 / Egne prosjekter
+## 01 / Åpen kildekode
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="100%" alt="Nordly nettbutikk">
-      <p><sub>NETTBUTIKK · BETALING</sub></p>
-      <h3><a href="https://github.com/Khhashi/Nordly">🛍️ Nordly</a></h3>
-      <p>Stripe Checkout, der ordren først bekreftes etter at betalingen er verifisert.</p>
-      <p><a href="https://ordermanager-8ym2.onrender.com/">↗ Demo</a> · <a href="https://github.com/Khhashi/Nordly">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/4">Tavle</a></p>
-      <sub>C# · .NET 8 · PostgreSQL · Stripe · Docker</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="100%" alt="Møteplass arrangementsplattform">
-      <p><sub>ARRANGEMENTER · SANNTID</sub></p>
-      <h3><a href="https://github.com/Khhashi/eventhub">📅 Møteplass</a></h3>
-      <p>Opprett arrangementer, finn noe å bli med på og meld deg på — med Google-innlogging.</p>
-      <p><a href="https://eventmeeting-f3eu.onrender.com/events">↗ Demo</a> · <a href="https://github.com/Khhashi/eventhub">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/9">Tavle</a></p>
-      <sub>React · Node.js · MongoDB · Socket.IO</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="100%" alt="Dashboard for sykehus- og kvalitetsdata">
-      <p><sub>ÅPNE DATA · HELSE</sub></p>
-      <h3><a href="https://github.com/Khhashi/helse-kvalitet-dashboard">📊 Sykehusdata</a></h3>
-      <p>Åpne SKDE-data gjør det mulig å sammenligne helseforetak og følge kvalitetsindikatorer.</p>
-      <p><a href="https://helse-kvalitet-dashboard.vercel.app">↗ Demo</a> · <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/12">Tavle</a></p>
-      <sub>Next.js · TypeScript · Tailwind CSS · Vitest</sub>
-    </td>
-  </tr>
-</table>
-
-## 02 / Åpen kildekode
-
-Åpne prosjekter jeg har bidratt til — fra saksbehandling i NAV til offentlig innsyn i eInnsyn.
+Jeg bidrar til åpne prosjekter innen offentlig innsyn og saksbehandling.
 
 <table>
   <tr>
@@ -55,19 +24,33 @@
       <a href="https://github.com/felleslosninger/einnsyn-frontend">
         <img src="./images/einnsyn-homepage.png" width="100%" alt="eInnsyns søkeside">
       </a>
-      <p><sub>OFFENTLIG INNSYN · FRONTEND, BACKEND, API</sub></p>
-      <h3><a href="https://github.com/felleslosninger/einnsyn-frontend">eInnsyn</a></h3>
-      <p>19 forslag på tvers av frontend, backend og API-spesifikasjonen. To frontend-bidrag er merget.</p>
-      <p><a href="https://github.com/felleslosninger/einnsyn-frontend">Frontend</a> · <a href="https://github.com/felleslosninger/einnsyn-backend">Backend</a> · <a href="https://github.com/felleslosninger/einnsyn-api-spec">API</a></p>
+      <p><sub>OFFENTLIG INNSYN · FRONTEND</sub></p>
+      <h3><a href="https://github.com/felleslosninger/einnsyn-frontend">eInnsyn frontend</a></h3>
+      <p>Brukergrensesnitt for søk og innsyn i offentlige dokumenter. 12 forslag, hvorav 2 er merget.</p>
+      <p><a href="https://github.com/felleslosninger/einnsyn-frontend">⌘ Se repo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>OFFENTLIG INNSYN · BACKEND</sub></p>
+      <h3><a href="https://github.com/felleslosninger/einnsyn-backend">eInnsyn backend</a></h3>
+      <p>Backend for eInnsyn. Jeg har sendt 5 forslag til API og saksbehandlingslogikk.</p>
+      <p><a href="https://github.com/felleslosninger/einnsyn-backend">⌘ Se repo</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>OFFENTLIG INNSYN · API</sub></p>
+      <h3><a href="https://github.com/felleslosninger/einnsyn-api-spec">eInnsyn API-spesifikasjon</a></h3>
+      <p>API-beskrivelsen for eInnsyn. Jeg har sendt 2 forslag til spesifikasjonen.</p>
+      <p><a href="https://github.com/felleslosninger/einnsyn-api-spec">⌘ Se repo</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Khhashi/watson-sak-frontend">
         <img src="./images/watson-sak.png" width="100%" alt="Watson Sak for NAV">
       </a>
       <p><sub>SAKSBEHANDLING · NAV</sub></p>
-      <h3><a href="https://github.com/Khhashi/watson-sak-frontend">Watson Sak</a></h3>
+      <h3><a href="https://github.com/Khhashi/watson-sak-frontend">Watson Sak frontend</a></h3>
       <p>Frontend for saksbehandling, bygget med React Router og Navs Aksel-designsystem.</p>
-      <p><a href="https://github.com/Khhashi/watson-sak-frontend">⌘ Kode</a> · <sub>React · TypeScript · Aksel</sub></p>
+      <p><a href="https://github.com/Khhashi/watson-sak-frontend">⌘ Se repo</a> · <sub>React · TypeScript · Aksel</sub></p>
     </td>
   </tr>
 </table>
@@ -103,6 +86,37 @@
 - [#71 · Legge til kladdfelt for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-api-spec/pull/71) — Lukket, ikke merget
 - [#72 · Legge til send-endepunkt for kladder](https://github.com/felleslosninger/einnsyn-api-spec/pull/72) — Lukket, ikke merget
 </details>
+
+## 02 / Egne prosjekter
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="100%" alt="Nordly nettbutikk">
+      <p><sub>NETTBUTIKK · BETALING</sub></p>
+      <h3><a href="https://github.com/Khhashi/Nordly">🛍️ Nordly</a></h3>
+      <p>Stripe Checkout, der ordren først bekreftes etter at betalingen er verifisert.</p>
+      <p><a href="https://ordermanager-8ym2.onrender.com/">↗ Demo</a> · <a href="https://github.com/Khhashi/Nordly">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/4">Tavle</a></p>
+      <sub>C# · .NET 8 · PostgreSQL · Stripe · Docker</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="100%" alt="Møteplass arrangementsplattform">
+      <p><sub>ARRANGEMENTER · SANNTID</sub></p>
+      <h3><a href="https://github.com/Khhashi/eventhub">📅 Møteplass</a></h3>
+      <p>Opprett arrangementer, finn noe å bli med på og meld deg på — med Google-innlogging.</p>
+      <p><a href="https://eventmeeting-f3eu.onrender.com/events">↗ Demo</a> · <a href="https://github.com/Khhashi/eventhub">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/9">Tavle</a></p>
+      <sub>React · Node.js · MongoDB · Socket.IO</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="100%" alt="Dashboard for sykehus- og kvalitetsdata">
+      <p><sub>ÅPNE DATA · HELSE</sub></p>
+      <h3><a href="https://github.com/Khhashi/helse-kvalitet-dashboard">📊 Sykehusdata</a></h3>
+      <p>Åpne SKDE-data gjør det mulig å sammenligne helseforetak og følge kvalitetsindikatorer.</p>
+      <p><a href="https://helse-kvalitet-dashboard.vercel.app">↗ Demo</a> · <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/12">Tavle</a></p>
+      <sub>Next.js · TypeScript · Tailwind CSS · Vitest</sub>
+    </td>
+  </tr>
+</table>
 
 ## 03 / Verktøy
 
