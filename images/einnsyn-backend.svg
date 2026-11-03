@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="739" height="465" viewBox="0 0 739 465" fill="none">
+  <rect width="739" height="465" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="737" height="463" rx="17" stroke="#30363D" stroke-width="2"/>
+  <circle cx="40" cy="40" r="8" fill="#2F81F7"/>
+  <text x="64" y="48" fill="#E6EDF3" font-family="Arial, sans-serif" font-size="24" font-weight="700">eInnsyn backend</text>
+  <text x="40" y="105" fill="#8B949E" font-family="Arial, sans-serif" font-size="16" letter-spacing="2">TJENESTELAG</text>
+  <rect x="40" y="132" width="659" height="76" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <rect x="58" y="151" width="44" height="38" rx="8" fill="#1F6FEB"/>
+  <path d="M71 160h18m-18 10h18m-18 10h12" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <text x="122" y="179" fill="#E6EDF3" font-family="Arial, sans-serif" font-size="22" font-weight="700">API</text>
+  <path d="M369 210v22m0 0H204v20m165-20h165v20" stroke="#58A6FF" stroke-width="3"/>
+  <rect x="40" y="252" width="329" height="92" rx="12" fill="#111D2E" stroke="#1F6FEB" stroke-width="2"/>
+  <text x="64" y="289" fill="#58A6FF" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.5">TJENESTELOGIKK</text>
+  <text x="64" y="322" fill="#E6EDF3" font-family="Arial, sans-serif" font-size="21" font-weight="700">Saksbehandling</text>
+  <rect x="370" y="252" width="329" height="92" rx="12" fill="#111D2E" stroke="#1F6FEB" stroke-width="2"/>
+  <text x="394" y="289" fill="#58A6FF" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.5">DATA</text>
+  <text x="394" y="322" fill="#E6EDF3" font-family="Arial, sans-serif" font-size="21" font-weight="700">Offentlige dokumenter</text>
+  <rect x="40" y="378" width="659" height="48" rx="10" fill="#161B22"/>
+  <text x="64" y="409" fill="#8B949E" font-family="Arial, sans-serif" font-size="16">eInnsyn · Backend-repo</text>
+</svg>
