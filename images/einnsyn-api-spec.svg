@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="739" height="465" viewBox="0 0 739 465" fill="none">
+  <rect width="739" height="465" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="737" height="463" rx="17" stroke="#30363D" stroke-width="2"/>
+  <circle cx="40" cy="40" r="8" fill="#2F81F7"/>
+  <text x="64" y="48" fill="#E6EDF3" font-family="Arial, sans-serif" font-size="24" font-weight="700">eInnsyn API-spesifikasjon</text>
+  <rect x="40" y="83" width="659" height="64" rx="10" fill="#161B22"/>
+  <text x="64" y="122" fill="#8B949E" font-family="Arial, sans-serif" font-size="16">API-DOKUMENTASJON</text>
+  <rect x="40" y="169" width="659" height="88" rx="12" fill="#111D2E" stroke="#30363D" stroke-width="2"/>
+  <rect x="60" y="190" width="94" height="42" rx="8" fill="#238636"/>
+  <text x="107" y="218" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="17" font-weight="700">ENDPOINT</text>
+  <line x1="180" y1="194" x2="568" y2="194" stroke="#8B949E" stroke-width="8" stroke-linecap="round"/>
+  <line x1="180" y1="222" x2="484" y2="222" stroke="#484F58" stroke-width="8" stroke-linecap="round"/>
+  <rect x="40" y="279" width="311" height="130" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="64" y="313" fill="#58A6FF" font-family="Arial, sans-serif" font-size="16" letter-spacing="1.4">REQUEST</text>
+  <rect x="64" y="333" width="238" height="10" rx="5" fill="#484F58"/>
+  <rect x="64" y="356" width="194" height="10" rx="5" fill="#484F58"/>
+  <rect x="64" y="379" width="215" height="10" rx="5" fill="#484F58"/>
+  <path d="M369 344h34m-12-12 12 12-12 12" stroke="#58A6FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="388" y="279" width="311" height="130" rx="12" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <text x="412" y="313" fill="#58A6FF" font-family="Arial, sans-serif" font-size="16" letter-spacing="1.4">RESPONSE</text>
+  <rect x="412" y="333" width="238" height="10" rx="5" fill="#484F58"/>
+  <rect x="412" y="356" width="194" height="10" rx="5" fill="#484F58"/>
+  <rect x="412" y="379" width="215" height="10" rx="5" fill="#484F58"/>
+  <text x="40" y="440" fill="#8B949E" font-family="Arial, sans-serif" font-size="16">eInnsyn · API-spesifikasjon</text>
+</svg>
