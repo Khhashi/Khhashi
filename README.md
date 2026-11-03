@@ -86,4 +86,19 @@ Offentlig teknologi skal åpne dører, ikke lage flere køer. Jeg skriver kode f
 
 ## 03 / Verktøy
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Vite` · `Node.js` · `.NET` · `C#` · `PostgreSQL` · `MongoDB` · `Vitest` · `Docker`
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=323330" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <br>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&amp;logo=vitest&amp;logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
