@@ -69,26 +69,26 @@ To av de 19 eInnsyn-forslagene mine er merget:
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="100%" alt="Nordly nettbutikk">
+      <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="100%" height="110" alt="Nordly nettbutikk">
       <p><sub>NETTBUTIKK · BETALING</sub></p>
       <h3><a href="https://github.com/Khhashi/Nordly">🛍️ Nordly</a></h3>
-      <p>Stripe Checkout, der ordren først bekreftes etter at betalingen er verifisert.</p>
+      <p>Nettbutikk med trygg betaling gjennom Stripe Checkout.</p>
       <p><a href="https://ordermanager-8ym2.onrender.com/">↗ Demo</a> · <a href="https://github.com/Khhashi/Nordly">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/4">Tavle</a></p>
       <sub>C# · .NET 8 · PostgreSQL · Stripe · Docker</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="100%" alt="Møteplass arrangementsplattform">
+      <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="100%" height="110" alt="Møteplass arrangementsplattform">
       <p><sub>ARRANGEMENTER · SANNTID</sub></p>
       <h3><a href="https://github.com/Khhashi/eventhub">📅 Møteplass</a></h3>
-      <p>Opprett arrangementer, finn noe å bli med på og meld deg på — med Google-innlogging.</p>
+      <p>Finn lokale arrangementer, inviter andre og meld deg på.</p>
       <p><a href="https://eventmeeting-f3eu.onrender.com/events">↗ Demo</a> · <a href="https://github.com/Khhashi/eventhub">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/9">Tavle</a></p>
       <sub>React · Node.js · MongoDB · Socket.IO</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="100%" alt="Dashboard for sykehus- og kvalitetsdata">
+      <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="100%" height="110" alt="Dashboard for sykehus- og kvalitetsdata">
       <p><sub>ÅPNE DATA · HELSE</sub></p>
       <h3><a href="https://github.com/Khhashi/helse-kvalitet-dashboard">📊 Sykehusdata</a></h3>
-      <p>Åpne SKDE-data gjør det mulig å sammenligne helseforetak og følge kvalitetsindikatorer.</p>
+      <p>Sammenlign helseforetak med åpne SKDE-data.</p>
       <p><a href="https://helse-kvalitet-dashboard.vercel.app">↗ Demo</a> · <a href="https://github.com/Khhashi/helse-kvalitet-dashboard">⌘ Kode</a> · <a href="https://github.com/users/Khhashi/projects/12">Tavle</a></p>
       <sub>Next.js · TypeScript · Tailwind CSS · Vitest</sub>
     </td>
