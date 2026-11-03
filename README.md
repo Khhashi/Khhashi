@@ -5,7 +5,7 @@
 <h1 align="center">Hei, jeg er Khalid 👋</h1>
 
 <p align="center">
-  Jeg jakter på årsaken, ikke symptomet. Har du et kult prosjekt på gang? Jeg er åpen for samarbeid.
+  Jeg liker å lage løsninger som fungerer. Har du et spennende prosjekt? Jeg er åpen for samarbeid.
 </p>
 
 <p align="center">
