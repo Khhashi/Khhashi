@@ -57,10 +57,11 @@ Jeg bidrar til åpne prosjekter innen offentlig innsyn og saksbehandling.
   </tr>
 </table>
 
-<details>
-<summary>Se alle 19 eInnsyn-forslagene</summary>
+### eInnsyn-bidrag · 19 forslag
 
-**Frontend**
+Jeg har sendt **19 forslag** til eInnsyn. **2 frontend-bidrag er merget.**
+
+#### Frontend · 12 forslag
 
 - [#480 · Hindre tomt datofilter ved fokus](https://github.com/felleslosninger/einnsyn-frontend/pull/480) — Åpen
 - [#478 · Fjerne API-nøkkel etter vellykket sletting](https://github.com/felleslosninger/einnsyn-frontend/pull/478) — Åpen
@@ -75,7 +76,7 @@ Jeg bidrar til åpne prosjekter innen offentlig innsyn og saksbehandling.
 - [#421 · Holde mislykkede søk adskilt](https://github.com/felleslosninger/einnsyn-frontend/pull/421) — Åpen
 - [#417 · Hindre utrygge videresendinger etter innlogging](https://github.com/felleslosninger/einnsyn-frontend/pull/417) — Merget
 
-**Backend**
+#### Backend · 5 forslag
 
 - [#796 · Beholde enhetsfilter ved konvertering av lagrede søk](https://github.com/felleslosninger/einnsyn-backend/pull/796) — Åpen
 - [#794 · Kontrollere lenkesjekk når kilde-URL endres](https://github.com/felleslosninger/einnsyn-backend/pull/794) — Lukket, ikke merget
@@ -83,11 +84,10 @@ Jeg bidrar til åpne prosjekter innen offentlig innsyn og saksbehandling.
 - [#787 · Lagre kladder for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-backend/pull/787) — Lukket, ikke merget
 - [#784 · Teste innholdet i e-poster om tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-backend/pull/784) — Åpen
 
-**API-spesifikasjon**
+#### API-spesifikasjon · 2 forslag
 
 - [#71 · Legge til kladdfelt for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-api-spec/pull/71) — Lukket, ikke merget
 - [#72 · Legge til send-endepunkt for kladder](https://github.com/felleslosninger/einnsyn-api-spec/pull/72) — Lukket, ikke merget
-</details>
 
 ## 02 / Egne prosjekter
 
