@@ -16,7 +16,7 @@
 
 ## 01 / Åpen kildekode
 
-Jeg bidrar til åpne prosjekter innen offentlig innsyn og saksbehandling.
+Offentlig teknologi skal åpne dører, ikke lage flere køer. Jeg skriver kode for mer innsyn og enklere saksbehandling.
 
 <table>
   <tr>
