@@ -43,54 +43,37 @@
       <sub>Next.js · TypeScript · Tailwind CSS · Vitest</sub>
     </td>
   </tr>
+</table>
+
+## 02 / Åpen kildekode
+
+Åpne prosjekter jeg har bidratt til — fra saksbehandling i NAV til offentlig innsyn i eInnsyn.
+
+<table>
   <tr>
-    <td colspan="3">
+    <td width="50%" valign="top">
+      <a href="https://github.com/felleslosninger/einnsyn-frontend">
+        <img src="./images/einnsyn-homepage.png" width="100%" alt="eInnsyns søkeside">
+      </a>
+      <p><sub>OFFENTLIG INNSYN · FRONTEND, BACKEND, API</sub></p>
+      <h3><a href="https://github.com/felleslosninger/einnsyn-frontend">eInnsyn</a></h3>
+      <p>19 forslag på tvers av frontend, backend og API-spesifikasjonen. To frontend-bidrag er merget.</p>
+      <p><a href="https://github.com/felleslosninger/einnsyn-frontend">Frontend</a> · <a href="https://github.com/felleslosninger/einnsyn-backend">Backend</a> · <a href="https://github.com/felleslosninger/einnsyn-api-spec">API</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Khhashi/watson-sak-frontend">
+        <img src="./images/watson-sak.png" width="100%" alt="Watson Sak for NAV">
+      </a>
       <p><sub>SAKSBEHANDLING · NAV</sub></p>
-      <h3><a href="https://github.com/Khhashi/watson-sak-frontend">Watson Sak for NAV</a></h3>
+      <h3><a href="https://github.com/Khhashi/watson-sak-frontend">Watson Sak</a></h3>
       <p>Frontend for saksbehandling, bygget med React Router og Navs Aksel-designsystem.</p>
       <p><a href="https://github.com/Khhashi/watson-sak-frontend">⌘ Kode</a> · <sub>React · TypeScript · Aksel</sub></p>
     </td>
   </tr>
 </table>
 
-## 02 / Åpen kildekode
-
-Jeg har sendt 19 forslag til eInnsyn på tvers av frontend, backend og API-spesifikasjonen. To frontend-bidrag er merget.
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Prosjekt</th>
-      <th align="left">Bidrag</th>
-      <th align="left">Lenke</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="33%" valign="top">
-        <a href="https://github.com/felleslosninger/einnsyn-frontend">
-          <img src="./images/einnsyn-homepage.png" width="100%" alt="eInnsyns søkeside">
-        </a>
-        <p><strong>eInnsyn frontend</strong><br><sub>Brukergrensesnitt for offentlig innsyn</sub></p>
-      </td>
-      <td>12 forslag · 2 merget</td>
-      <td><a href="https://github.com/felleslosninger/einnsyn-frontend">Se kode ↗</a></td>
-    </tr>
-    <tr>
-      <td><strong>eInnsyn backend</strong><br><sub>API og saksbehandlingslogikk</sub></td>
-      <td>5 forslag</td>
-      <td><a href="https://github.com/felleslosninger/einnsyn-backend">Se kode ↗</a></td>
-    </tr>
-    <tr>
-      <td><strong>eInnsyn API-spesifikasjon</strong><br><sub>Beskrivelse av API-et</sub></td>
-      <td>2 forslag</td>
-      <td><a href="https://github.com/felleslosninger/einnsyn-api-spec">Se kode ↗</a></td>
-    </tr>
-  </tbody>
-</table>
-
 <details>
-<summary>Se alle 19 forslagene</summary>
+<summary>Se alle 19 eInnsyn-forslagene</summary>
 
 **Frontend**
 
@@ -119,7 +102,6 @@ Jeg har sendt 19 forslag til eInnsyn på tvers av frontend, backend og API-spesi
 
 - [#71 · Legge til kladdfelt for tilgangsforespørsler](https://github.com/felleslosninger/einnsyn-api-spec/pull/71) — Lukket, ikke merget
 - [#72 · Legge til send-endepunkt for kladder](https://github.com/felleslosninger/einnsyn-api-spec/pull/72) — Lukket, ikke merget
-
 </details>
 
 ## 03 / Verktøy
