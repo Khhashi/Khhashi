@@ -57,19 +57,12 @@ Jeg bidrar til åpne prosjekter innen offentlig innsyn og saksbehandling.
   </tr>
 </table>
 
-### Mergete bidrag
-
-To av de 19 eInnsyn-forslagene mine er merget:
-
-- [#434 · Beholde filterverdier med mellomrom](https://github.com/felleslosninger/einnsyn-frontend/pull/434)
-- [#417 · Hindre utrygge videresendinger etter innlogging](https://github.com/felleslosninger/einnsyn-frontend/pull/417)
-
 ## 02 / Egne prosjekter
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="100%" height="110" style="height: 110px; object-fit: cover;" alt="Nordly nettbutikk">
+      <img src="https://github.com/user-attachments/assets/14e054b3-d045-4a3d-a2b2-c3858c033dca" width="100%" height="110" alt="Nordly nettbutikk">
       <p><sub>NETTBUTIKK · BETALING</sub></p>
       <h3><a href="https://github.com/Khhashi/Nordly">🛍️ Nordly</a></h3>
       <p>Nettbutikk med trygg betaling gjennom Stripe Checkout.</p>
@@ -77,7 +70,7 @@ To av de 19 eInnsyn-forslagene mine er merget:
       <sub>C# · .NET 8 · PostgreSQL · Stripe · Docker</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="100%" height="110" style="height: 110px; object-fit: cover;" alt="Møteplass arrangementsplattform">
+      <img src="https://github.com/user-attachments/assets/4f964660-76b5-4377-8cd2-a1496416da05" width="100%" height="110" alt="Møteplass arrangementsplattform">
       <p><sub>ARRANGEMENTER · SANNTID</sub></p>
       <h3><a href="https://github.com/Khhashi/eventhub">📅 Møteplass</a></h3>
       <p>Finn lokale arrangementer, inviter andre og meld deg på.</p>
@@ -85,7 +78,7 @@ To av de 19 eInnsyn-forslagene mine er merget:
       <sub>React · Node.js · MongoDB · Socket.IO</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://github.com/user-attachments/assets/a94b27a9-33de-489f-b672-12956bffe406" width="100%" height="110" style="height: 110px; object-fit: cover;" alt="Dashboard for sykehus- og kvalitetsdata">
+      <img src="./images/sykehusdata.png" width="100%" height="110" alt="Dashboard for sykehus- og kvalitetsdata">
       <p><sub>ÅPNE DATA · HELSE</sub></p>
       <h3><a href="https://github.com/Khhashi/helse-kvalitet-dashboard">📊 Sykehusdata</a></h3>
       <p>Sammenlign helseforetak med åpne SKDE-data.</p>
