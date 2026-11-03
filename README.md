@@ -5,7 +5,7 @@
 <h1 align="center">Hei, jeg er Khalid 👋</h1>
 
 <p align="center">
-  Jeg liker å finne ut hvorfor ting ikke virker — og få dem til å virke.
+  Jeg jakter på årsaken, ikke symptomet. Har du et kult prosjekt på gang? Jeg er åpen for samarbeid.
 </p>
 
 <p align="center">
