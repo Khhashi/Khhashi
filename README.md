@@ -25,14 +25,14 @@ Offentlig teknologi skal åpne dører, ikke lage flere køer. Jeg skriver kode f
       <p><sub>OFFENTLIG INNSYN · FRONTEND</sub></p>
       <h3><a href="https://github.com/felleslosninger/einnsyn-frontend">eInnsyn frontend</a></h3>
       <p>Brukergrensesnitt for søk og innsyn i offentlige dokumenter. 12 forslag, hvorav 2 er merget.</p>
-      <p><a href="https://github.com/felleslosninger/einnsyn-frontend">⌘ Se repo</a></p>
+      <p><a href="https://github.com/felleslosninger/einnsyn-frontend">⌘ Se repo</a> · <a href="https://github.com/users/Khhashi/projects/14">Prosjekttavle</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/felleslosninger/einnsyn-backend"><img src="./images/einnsyn-backend.svg" width="100%" height="465" alt="Illustrasjon av eInnsyn backend"></a>
       <p><sub>OFFENTLIG INNSYN · BACKEND</sub></p>
       <h3><a href="https://github.com/felleslosninger/einnsyn-backend">eInnsyn backend</a></h3>
       <p>Backend for eInnsyn. Jeg har sendt 5 forslag til API og saksbehandlingslogikk.</p>
-      <p><a href="https://github.com/felleslosninger/einnsyn-backend">⌘ Se repo</a></p>
+      <p><a href="https://github.com/felleslosninger/einnsyn-backend">⌘ Se repo</a> · <a href="https://github.com/users/Khhashi/projects/15">Prosjekttavle</a></p>
     </td>
   </tr>
   <tr>
@@ -41,14 +41,14 @@ Offentlig teknologi skal åpne dører, ikke lage flere køer. Jeg skriver kode f
       <p><sub>OFFENTLIG INNSYN · API</sub></p>
       <h3><a href="https://github.com/felleslosninger/einnsyn-api-spec">eInnsyn API-spesifikasjon</a></h3>
       <p>API-beskrivelsen for eInnsyn. Jeg har sendt 2 forslag til spesifikasjonen.</p>
-      <p><a href="https://github.com/felleslosninger/einnsyn-api-spec">⌘ Se repo</a></p>
+      <p><a href="https://github.com/felleslosninger/einnsyn-api-spec">⌘ Se repo</a> · <a href="https://github.com/users/Khhashi/projects/16">Prosjekttavle</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Khhashi/watson-sak-frontend"><img src="./images/watson-sak.png" width="100%" height="465" alt="Watson Sak for NAV"></a>
       <p><sub>SAKSBEHANDLING · NAV</sub></p>
       <h3><a href="https://github.com/Khhashi/watson-sak-frontend">Watson Sak frontend</a></h3>
       <p>Frontend for saksbehandling, bygget med React Router og Navs Aksel-designsystem.</p>
-      <p><a href="https://github.com/Khhashi/watson-sak-frontend">⌘ Se repo</a></p>
+      <p><a href="https://github.com/Khhashi/watson-sak-frontend">⌘ Se repo</a> · <a href="https://github.com/users/Khhashi/projects/17">Prosjekttavle</a></p>
     </td>
   </tr>
 </table>
