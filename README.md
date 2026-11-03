@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a> ·
-  <a href="https://github.com/Khhashi">GitHub-prosjekter</a> ·
+  <a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a>&nbsp;·&nbsp;
+  <a href="https://github.com/Khhashi">GitHub-prosjekter</a>&nbsp;·&nbsp;
   <a href="mailto:khalidkhalif1507@gmail.com">E-post</a>
 </p>
 
