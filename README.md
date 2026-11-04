@@ -8,7 +8,7 @@
 
 ## Åpen kildekode
 
-Bidrag til offentlig teknologi for mer innsyn og enklere saksbehandling.
+Jeg bygger videre på åpen kildekode som gjør offentlig informasjon mer tilgjengelig og saksbehandling enklere.
 
 <table>
   <tr>
