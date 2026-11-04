@@ -39,20 +39,6 @@ Bidrag til offentlig teknologi for mer innsyn og enklere saksbehandling.
       <p><sub>React · TypeScript · React Router · Tailwind CSS · Aksel</sub></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/navikt/rekrutteringsbistand-frontend"><img src="https://raw.githubusercontent.com/navikt/rekrutteringsbistand-frontend/main/tests/rekrutteringstreff/oversikt.spec.ts-snapshots/Rekrutteringstreff-oversikt-Visuell-snapshot-1-chromium-desktop-darwin.png" width="100%" height="240" alt="Oversikt over rekrutteringstreff i Rekrutteringsbistand"></a>
-      <h3><a href="https://github.com/navikt/rekrutteringsbistand-frontend">Rekrutteringsbistand</a></h3>
-      <p>Frontend for NAVs rekrutteringstjeneste, bygget med Next.js.</p>
-      <p><sub>Next.js · React · TypeScript · Aksel</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/navikt/familie-oppdrag-backend"><img src="https://raw.githubusercontent.com/navikt/familie-oppdrag-backend/main/src/test/kotlin/no/nav/familie/oppdrag/simulering/mock/perioder.jpg" width="100%" height="240" alt="Illustrasjon av perioder i simulering for Familie-oppdrag"></a>
-      <h3><a href="https://github.com/navikt/familie-oppdrag-backend">Familie-oppdrag</a></h3>
-      <p>Proxy mellom familieytelsene og Oppdragssystemet (OS).</p>
-      <p><sub>Kotlin · Spring Boot · PostgreSQL · IBM MQ</sub></p>
-    </td>
-  </tr>
 </table>
 
 <br>
