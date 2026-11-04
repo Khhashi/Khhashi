@@ -57,7 +57,7 @@ Jeg bygger videre på åpen kildekode som gjør offentlig informasjon mer tilgje
 
 <br>
 
-## Egne prosjekter
+## Personlige prosjekter
 
 <table>
   <tr>
