@@ -2,13 +2,21 @@
 
 <p align="center"><strong>Fullstack-utvikler · Oslo</strong></p>
 
-<p align="center">Jeg lærer best ved å bygge – og deler det jeg lærer gjennom åpen kildekode.</p>
+<p align="center">Jeg liker å lage digitale tjenester som løser praktiske problemer. Jeg jobber både med brukeropplevelsen og teknikken bak, og trives med å finne friksjon i en kodebase og gjøre løsningene enklere og mer robuste.</p>
 
 <p align="center"><a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a> · <a href="https://github.com/Khhashi?tab=repositories">Repositories</a> · <a href="mailto:khalidkhalif1507@gmail.com">E-post</a></p>
 
+## Hva jeg bidrar med
+
+Jeg bidrar med både funksjonalitet, brukeropplevelse og tester, og liker å gjøre små, konkrete forbedringer som merkes i bruk.
+
+- I [eInnsyn](https://github.com/felleslosninger/einnsyn-frontend) har jeg forbedret søkefiltre slik at de følger URL-en, og oversatt datofilteret for de støttede språkene ([#475](https://github.com/felleslosninger/einnsyn-frontend/pull/475), [#473](https://github.com/felleslosninger/einnsyn-frontend/pull/473)).
+- I [Møteplass](https://github.com/Khhashi/eventhub) har jeg gjort adresseforslag enklere å bruke med tastatur og lagt til tester for oppførselen ([#116](https://github.com/Khhashi/eventhub/pull/116)).
+- I [Nordly](https://github.com/Khhashi/Nordly) har jeg bygget en PostgreSQL-basert cache med utløp og håndtering av samtidige oppdateringer, og forbedret mobilvisningen av nettbutikken ([#265](https://github.com/Khhashi/Nordly/pull/265), [#334](https://github.com/Khhashi/Nordly/pull/334)).
+
 ## Åpen kildekode
 
-Jeg bygger videre på åpen kildekode som gjør offentlig informasjon mer tilgjengelig og saksbehandling enklere.
+Jeg bidrar til løsninger som gjør offentlig informasjon mer tilgjengelig og saksbehandling enklere.
 
 <table>
   <tr>
