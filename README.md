@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:khalidkhalif1507@gmail.com">E-post</a></p>
 
-<p align="center">Jeg er fullstack-utvikler og liker å gjøre digitale tjenester enklere å bruke.</p>
+<p align="center">Jeg lærer best gjennom praktisk arbeid og trives med å utvikle løsninger som gjør digitale tjenester enklere å bruke.</p>
 
 ## Åpen kildekode
 
