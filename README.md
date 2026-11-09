@@ -6,10 +6,9 @@
 
 <p align="center">Jeg liker å lage digitale tjenester som løser praktiske problemer, og jobber med både brukeropplevelsen og teknikken bak.</p>
 
-## Nå jobber jeg med
+## Åpen kildekode
 
-Jeg jobber med nyhetsbrevfunksjonalitet i [Nordly](https://github.com/Khhashi/Nordly), med tydelig samtykke og sikker avmelding ([issue #223](https://github.com/Khhashi/Nordly/issues/223)).
+Jeg bidrar til [eInnsyn](https://github.com/felleslosninger/einnsyn-frontend), en tjeneste for å søke i og lese offentlige dokumenter. Jeg har fått forbedringer merget for innlogging og søk:
 
-## Utvalgt bidrag
-
-I [eInnsyn](https://github.com/felleslosninger/einnsyn-frontend) har jeg forbedret innloggingen med Ansattporten og søkefiltrene ([#417](https://github.com/felleslosninger/einnsyn-frontend/pull/417), [#434](https://github.com/felleslosninger/einnsyn-frontend/pull/434), [#473](https://github.com/felleslosninger/einnsyn-frontend/pull/473), [#475](https://github.com/felleslosninger/einnsyn-frontend/pull/475)).
+- Trygg retur etter innlogging med Ansattporten ([issue #416](https://github.com/felleslosninger/einnsyn-frontend/issues/416), [PR #417](https://github.com/felleslosninger/einnsyn-frontend/pull/417)).
+- Søkefiltre som bevarer verdier med mellomrom, viser oversatte datofilteretiketter og følger URL-en ([issues #427](https://github.com/felleslosninger/einnsyn-frontend/issues/427), [#476](https://github.com/felleslosninger/einnsyn-frontend/issues/476), [#474](https://github.com/felleslosninger/einnsyn-frontend/issues/474); [PR-er #434](https://github.com/felleslosninger/einnsyn-frontend/pull/434), [#473](https://github.com/felleslosninger/einnsyn-frontend/pull/473), [#475](https://github.com/felleslosninger/einnsyn-frontend/pull/475)).
