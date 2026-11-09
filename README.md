@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Fullstack-utvikler · Oslo</strong></p>
 
-<p align="center"><a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a> · <a href="mailto:khalidkhalif1507@gmail.com">E-post</a></p>
+<p align="center"><a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:khalidkhalif1507@gmail.com">E-post</a></p>
 
 <p align="center">Jeg liker å lage digitale tjenester som gjør informasjon og offentlige tjenester enklere å bruke.</p>
 
