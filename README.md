@@ -4,11 +4,12 @@
 
 <p align="center"><a href="https://no.linkedin.com/in/khalid-hashi-18b97119a">LinkedIn</a> · <a href="mailto:khalidkhalif1507@gmail.com">E-post</a></p>
 
-<p align="center">Jeg liker å lage digitale tjenester som løser praktiske problemer, og jobber med både brukeropplevelsen og teknikken bak.</p>
+<p align="center">Jeg liker å lage digitale tjenester som gjør informasjon og offentlige tjenester enklere å bruke.</p>
 
 ## Åpen kildekode
 
-Jeg bidrar til [eInnsyn](https://github.com/felleslosninger/einnsyn-frontend), en tjeneste for å søke i og lese offentlige dokumenter. Jeg har fått forbedringer merget for innlogging og søk:
+Jeg bidrar til åpne løsninger for offentlig sektor:
 
-- Trygg retur etter innlogging med Ansattporten ([issue #416](https://github.com/felleslosninger/einnsyn-frontend/issues/416), [PR #417](https://github.com/felleslosninger/einnsyn-frontend/pull/417)).
-- Søkefiltre som bevarer verdier med mellomrom, viser oversatte datofilteretiketter og følger URL-en ([issues #427](https://github.com/felleslosninger/einnsyn-frontend/issues/427), [#476](https://github.com/felleslosninger/einnsyn-frontend/issues/476), [#474](https://github.com/felleslosninger/einnsyn-frontend/issues/474); [PR-er #434](https://github.com/felleslosninger/einnsyn-frontend/pull/434), [#473](https://github.com/felleslosninger/einnsyn-frontend/pull/473), [#475](https://github.com/felleslosninger/einnsyn-frontend/pull/475)).
+- [eInnsyn](https://github.com/felleslosninger/einnsyn-frontend) gjør det mulig å søke i og lese offentlige dokumenter. Jeg har forbedret innloggingen med Ansattporten og søkefiltrene: [trygg retur etter innlogging](https://github.com/felleslosninger/einnsyn-frontend/pull/417) · [filterverdier med mellomrom](https://github.com/felleslosninger/einnsyn-frontend/pull/434) · [oversatte datofilter](https://github.com/felleslosninger/einnsyn-frontend/pull/473) · [filtre som følger URL-en](https://github.com/felleslosninger/einnsyn-frontend/pull/475).
+- [Watson Sak](https://github.com/navikt/watson-sak-frontend) er en frontend for saksbehandlere som arbeider med saker.
+- [Rekrutteringsbistand](https://github.com/navikt/rekrutteringsbistand-frontend) er NAVs rekrutteringsplattform, med en frontend bygget i Next.js.
